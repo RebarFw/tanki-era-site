@@ -7,12 +7,12 @@ The Windows installer is too large for GitHub repo files and Vercel static hosti
 Host the installer as a GitHub Release asset and keep the website download link pointing to:
 
 ```
-https://github.com/REPLACE_OWNER/REPLACE_REPO/releases/latest/download/TankiEraSetup.exe
+https://github.com/RebarFw/tanki-era-site/releases/latest/download/TankiEraSetup.exe
 ```
 
 ## Steps
 1. Create a GitHub repository.
-2. Replace `REPLACE_OWNER/REPLACE_REPO` in `index.html` with your repo.
+2. Confirm the download URL in `index.html` matches your repo.
 3. Create a GitHub Release and upload `TankiEraSetup.exe` as a release asset.
 4. Connect the repo to Vercel (Framework: Other / Static).
 
