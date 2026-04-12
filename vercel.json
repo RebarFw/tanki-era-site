@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/download",
-      "destination": "https://github.com/RebarFw/tanki-era-site/releases/latest/download/TankiEraSetup.exe"
+      "destination": "https://github.com/RebarFw/tanki-era-site/releases/latest/download/Tanki era"
     }
   ]
 }
