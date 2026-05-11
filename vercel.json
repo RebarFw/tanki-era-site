@@ -1,9 +1,10 @@
 {
   "cleanUrls": true,
-  "rewrites": [
+  "redirects": [
     {
       "source": "/download",
-      "destination": "https://github.com/RebarFw/tanki-era-site/releases/download/v1.01/TankiEra.rar"
+      "destination": "https://github.com/RebarFw/tanki-era-site/releases/latest/download/TankiEra.rar",
+      "permanent": false
     }
   ]
 }
