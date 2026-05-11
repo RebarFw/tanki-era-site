@@ -18,3 +18,7 @@ https://github.com/RebarFw/tanki-era-site/releases/latest/download/TankiEraSetup
 
 ## Local Preview
 Open `index.html` directly in the browser.
+
+
+
+made by LoveSick <3 
