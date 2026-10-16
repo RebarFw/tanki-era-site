@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T02:22:14.958380+00:00",
+  "updatedAt": "2026-10-16T03:22:22.092314+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -287,11 +287,11 @@
         {
           "rank": 32,
           "username": "Tibo",
-          "minesPlaced": 141781,
+          "minesPlaced": 144529,
           "playerRank": 6203,
-          "kills": 112,
-          "deaths": 1143,
-          "kdRatio": 0.09798775153105861
+          "kills": 123,
+          "deaths": 1149,
+          "kdRatio": 0.10704960835509138
         },
         {
           "rank": 33,
@@ -651,11 +651,11 @@
         {
           "rank": 2,
           "username": "Tibo",
-          "minesPlaced": 34373,
+          "minesPlaced": 37121,
           "playerRank": 6203,
-          "kills": 112,
-          "deaths": 1143,
-          "kdRatio": 0.09798775153105861
+          "kills": 123,
+          "deaths": 1149,
+          "kdRatio": 0.10704960835509138
         }
       ],
       "weekStart": "2026-10-12",
