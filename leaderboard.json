@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T07:24:22.164278+00:00",
+  "updatedAt": "2026-10-16T09:25:22.132356+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -538,6 +538,15 @@
         },
         {
           "rank": 60,
+          "username": "Sol6.1",
+          "minesPlaced": 3677,
+          "playerRank": 30,
+          "kills": 1,
+          "deaths": 21,
+          "kdRatio": 0.047619047619047616
+        },
+        {
+          "rank": 61,
           "username": "Daddy",
           "minesPlaced": 3529,
           "playerRank": 30,
@@ -546,7 +555,7 @@
           "kdRatio": 0.0
         },
         {
-          "rank": 61,
+          "rank": 62,
           "username": "Morax",
           "minesPlaced": 3349,
           "playerRank": 2724,
@@ -555,7 +564,7 @@
           "kdRatio": 0.0
         },
         {
-          "rank": 62,
+          "rank": 63,
           "username": "no",
           "minesPlaced": 3121,
           "playerRank": 30,
@@ -564,7 +573,7 @@
           "kdRatio": 0.0
         },
         {
-          "rank": 63,
+          "rank": 64,
           "username": "STOP_DOHAT",
           "minesPlaced": 1940,
           "playerRank": 30,
@@ -573,7 +582,7 @@
           "kdRatio": 0.0
         },
         {
-          "rank": 64,
+          "rank": 65,
           "username": "Astra",
           "minesPlaced": 996,
           "playerRank": 72,
@@ -582,7 +591,7 @@
           "kdRatio": 2.0
         },
         {
-          "rank": 65,
+          "rank": 66,
           "username": "Dent-De-Lion",
           "minesPlaced": 976,
           "playerRank": 35,
@@ -591,7 +600,7 @@
           "kdRatio": 0.09090909090909091
         },
         {
-          "rank": 66,
+          "rank": 67,
           "username": "Tap",
           "minesPlaced": 309,
           "playerRank": 30,
@@ -600,7 +609,7 @@
           "kdRatio": 0.0
         },
         {
-          "rank": 67,
+          "rank": 68,
           "username": "Bodya",
           "minesPlaced": 64,
           "playerRank": 30,
@@ -609,7 +618,7 @@
           "kdRatio": 0.0
         },
         {
-          "rank": 68,
+          "rank": 69,
           "username": "Insane",
           "minesPlaced": 62,
           "playerRank": 30,
@@ -618,7 +627,7 @@
           "kdRatio": 0.5
         },
         {
-          "rank": 69,
+          "rank": 70,
           "username": "MrNetanel",
           "minesPlaced": 52,
           "playerRank": 30,
@@ -627,7 +636,7 @@
           "kdRatio": 0.0
         },
         {
-          "rank": 70,
+          "rank": 71,
           "username": "Love",
           "minesPlaced": 16,
           "playerRank": 34,
@@ -656,6 +665,15 @@
           "kills": 128,
           "deaths": 1149,
           "kdRatio": 0.1114012184508268
+        },
+        {
+          "rank": 3,
+          "username": "Sol6.1",
+          "minesPlaced": 3677,
+          "playerRank": 30,
+          "kills": 1,
+          "deaths": 21,
+          "kdRatio": 0.047619047619047616
         }
       ],
       "weekStart": "2026-10-12",
