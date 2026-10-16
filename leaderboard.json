@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T00:21:36.585581+00:00",
+  "updatedAt": "2026-10-16T01:22:14.516982+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -287,7 +287,7 @@
         {
           "rank": 32,
           "username": "Tibo",
-          "minesPlaced": 140822,
+          "minesPlaced": 141781,
           "playerRank": 6203,
           "kills": 112,
           "deaths": 1143,
@@ -651,7 +651,7 @@
         {
           "rank": 2,
           "username": "Tibo",
-          "minesPlaced": 33414,
+          "minesPlaced": 34373,
           "playerRank": 6203,
           "kills": 112,
           "deaths": 1143,
