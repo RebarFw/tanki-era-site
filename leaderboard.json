@@ -1,13 +1,33 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T12:00:11.563775+00:00",
+  "updatedAt": "2026-10-16T13:00:22.639252+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
-      "entries": []
+      "entries": [
+        {
+          "rank": 1,
+          "username": "LoveSick",
+          "minesPlaced": 2750,
+          "playerRank": 31,
+          "kills": 0,
+          "deaths": 2,
+          "kdRatio": 0.0
+        }
+      ]
     },
     "weekly": {
-      "entries": [],
+      "entries": [
+        {
+          "rank": 1,
+          "username": "LoveSick",
+          "minesPlaced": 2750,
+          "playerRank": 31,
+          "kills": 0,
+          "deaths": 2,
+          "kdRatio": 0.0
+        }
+      ],
       "weekStart": "2026-10-12",
       "weekEnds": "2026-10-18",
       "resetsAt": 1792368000000
