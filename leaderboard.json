@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T13:00:22.639252+00:00",
+  "updatedAt": "2026-10-16T14:00:23.078039+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -8,11 +8,20 @@
         {
           "rank": 1,
           "username": "LoveSick",
-          "minesPlaced": 2750,
+          "minesPlaced": 6411,
           "playerRank": 31,
-          "kills": 0,
-          "deaths": 2,
-          "kdRatio": 0.0
+          "kills": 5,
+          "deaths": 9,
+          "kdRatio": 0.5555555555555556
+        },
+        {
+          "rank": 2,
+          "username": "Sexy",
+          "minesPlaced": 2155,
+          "playerRank": 31,
+          "kills": 5,
+          "deaths": 8,
+          "kdRatio": 0.625
         }
       ]
     },
@@ -21,11 +30,20 @@
         {
           "rank": 1,
           "username": "LoveSick",
-          "minesPlaced": 2750,
+          "minesPlaced": 6411,
           "playerRank": 31,
-          "kills": 0,
-          "deaths": 2,
-          "kdRatio": 0.0
+          "kills": 5,
+          "deaths": 9,
+          "kdRatio": 0.5555555555555556
+        },
+        {
+          "rank": 2,
+          "username": "Sexy",
+          "minesPlaced": 2155,
+          "playerRank": 31,
+          "kills": 5,
+          "deaths": 8,
+          "kdRatio": 0.625
         }
       ],
       "weekStart": "2026-10-12",
