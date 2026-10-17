@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T14:12:22.621199+00:00",
+  "updatedAt": "2026-10-17T15:12:23.135759+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -8,11 +8,11 @@
         {
           "rank": 1,
           "username": "LoveSick",
-          "minesPlaced": 21292,
+          "minesPlaced": 25145,
           "playerRank": 31,
-          "kills": 19,
-          "deaths": 43,
-          "kdRatio": 0.4418604651162791
+          "kills": 41,
+          "deaths": 55,
+          "kdRatio": 0.7454545454545455
         },
         {
           "rank": 2,
@@ -26,20 +26,29 @@
         {
           "rank": 3,
           "username": "insults",
-          "minesPlaced": 89,
+          "minesPlaced": 5117,
           "playerRank": 31,
-          "kills": 0,
-          "deaths": 1,
-          "kdRatio": 0.0
+          "kills": 8,
+          "deaths": 22,
+          "kdRatio": 0.36363636363636365
         },
         {
           "rank": 4,
           "username": "X",
-          "minesPlaced": 87,
+          "minesPlaced": 3793,
           "playerRank": 31,
-          "kills": 5,
-          "deaths": 9,
-          "kdRatio": 0.5555555555555556
+          "kills": 17,
+          "deaths": 23,
+          "kdRatio": 0.7391304347826086
+        },
+        {
+          "rank": 5,
+          "username": "Asuna",
+          "minesPlaced": 2360,
+          "playerRank": 31,
+          "kills": 4,
+          "deaths": 35,
+          "kdRatio": 0.11428571428571428
         }
       ]
     },
@@ -48,11 +57,11 @@
         {
           "rank": 1,
           "username": "LoveSick",
-          "minesPlaced": 21292,
+          "minesPlaced": 25145,
           "playerRank": 31,
-          "kills": 19,
-          "deaths": 43,
-          "kdRatio": 0.4418604651162791
+          "kills": 41,
+          "deaths": 55,
+          "kdRatio": 0.7454545454545455
         },
         {
           "rank": 2,
@@ -66,20 +75,29 @@
         {
           "rank": 3,
           "username": "insults",
-          "minesPlaced": 89,
+          "minesPlaced": 5118,
           "playerRank": 31,
-          "kills": 0,
-          "deaths": 1,
-          "kdRatio": 0.0
+          "kills": 8,
+          "deaths": 22,
+          "kdRatio": 0.36363636363636365
         },
         {
           "rank": 4,
           "username": "X",
-          "minesPlaced": 87,
+          "minesPlaced": 3793,
           "playerRank": 31,
-          "kills": 5,
-          "deaths": 9,
-          "kdRatio": 0.5555555555555556
+          "kills": 17,
+          "deaths": 23,
+          "kdRatio": 0.7391304347826086
+        },
+        {
+          "rank": 5,
+          "username": "Asuna",
+          "minesPlaced": 2360,
+          "playerRank": 31,
+          "kills": 4,
+          "deaths": 35,
+          "kdRatio": 0.11428571428571428
         }
       ],
       "weekStart": "2026-10-12",
