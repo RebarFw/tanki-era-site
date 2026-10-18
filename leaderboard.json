@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T15:24:22.415849+00:00",
+  "updatedAt": "2026-10-18T16:24:22.893573+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -17,7 +17,7 @@
         {
           "rank": 2,
           "username": "insults",
-          "minesPlaced": 10958,
+          "minesPlaced": 11666,
           "playerRank": 31,
           "kills": 11,
           "deaths": 33,
@@ -84,7 +84,7 @@
         {
           "rank": 2,
           "username": "insults",
-          "minesPlaced": 10959,
+          "minesPlaced": 11667,
           "playerRank": 31,
           "kills": 11,
           "deaths": 33,
