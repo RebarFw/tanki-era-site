@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T08:20:23.087980+00:00",
+  "updatedAt": "2026-10-18T10:21:23.001516+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -8,14 +8,32 @@
         {
           "rank": 1,
           "username": "LoveSick",
-          "minesPlaced": 25858,
+          "minesPlaced": 28116,
           "playerRank": 31,
-          "kills": 42,
-          "deaths": 59,
-          "kdRatio": 0.711864406779661
+          "kills": 43,
+          "deaths": 61,
+          "kdRatio": 0.7049180327868853
         },
         {
           "rank": 2,
+          "username": "Sexy",
+          "minesPlaced": 8678,
+          "playerRank": 31,
+          "kills": 17,
+          "deaths": 25,
+          "kdRatio": 0.68
+        },
+        {
+          "rank": 3,
+          "username": "insults",
+          "minesPlaced": 7618,
+          "playerRank": 31,
+          "kills": 11,
+          "deaths": 29,
+          "kdRatio": 0.3793103448275862
+        },
+        {
+          "rank": 4,
           "username": "X",
           "minesPlaced": 7444,
           "playerRank": 31,
@@ -24,40 +42,22 @@
           "kdRatio": 0.4318181818181818
         },
         {
-          "rank": 3,
-          "username": "Sexy",
-          "minesPlaced": 6407,
+          "rank": 5,
+          "username": "Tibo",
+          "minesPlaced": 6170,
           "playerRank": 31,
-          "kills": 16,
-          "deaths": 20,
-          "kdRatio": 0.8
+          "kills": 0,
+          "deaths": 6,
+          "kdRatio": 0.0
         },
         {
-          "rank": 4,
+          "rank": 6,
           "username": "Sol6.1",
           "minesPlaced": 6118,
           "playerRank": 31,
           "kills": 52,
           "deaths": 3,
           "kdRatio": 17.333333333333332
-        },
-        {
-          "rank": 5,
-          "username": "insults",
-          "minesPlaced": 5117,
-          "playerRank": 31,
-          "kills": 8,
-          "deaths": 22,
-          "kdRatio": 0.36363636363636365
-        },
-        {
-          "rank": 6,
-          "username": "Tibo",
-          "minesPlaced": 2793,
-          "playerRank": 31,
-          "kills": 0,
-          "deaths": 5,
-          "kdRatio": 0.0
         },
         {
           "rank": 7,
@@ -75,14 +75,32 @@
         {
           "rank": 1,
           "username": "LoveSick",
-          "minesPlaced": 25858,
+          "minesPlaced": 28116,
           "playerRank": 31,
-          "kills": 42,
-          "deaths": 59,
-          "kdRatio": 0.711864406779661
+          "kills": 43,
+          "deaths": 61,
+          "kdRatio": 0.7049180327868853
         },
         {
           "rank": 2,
+          "username": "Sexy",
+          "minesPlaced": 8678,
+          "playerRank": 31,
+          "kills": 17,
+          "deaths": 25,
+          "kdRatio": 0.68
+        },
+        {
+          "rank": 3,
+          "username": "insults",
+          "minesPlaced": 7619,
+          "playerRank": 31,
+          "kills": 11,
+          "deaths": 29,
+          "kdRatio": 0.3793103448275862
+        },
+        {
+          "rank": 4,
           "username": "X",
           "minesPlaced": 7444,
           "playerRank": 31,
@@ -91,40 +109,22 @@
           "kdRatio": 0.4318181818181818
         },
         {
-          "rank": 3,
-          "username": "Sexy",
-          "minesPlaced": 6407,
+          "rank": 5,
+          "username": "Tibo",
+          "minesPlaced": 6170,
           "playerRank": 31,
-          "kills": 16,
-          "deaths": 20,
-          "kdRatio": 0.8
+          "kills": 0,
+          "deaths": 6,
+          "kdRatio": 0.0
         },
         {
-          "rank": 4,
+          "rank": 6,
           "username": "Sol6.1",
           "minesPlaced": 6118,
           "playerRank": 31,
           "kills": 52,
           "deaths": 3,
           "kdRatio": 17.333333333333332
-        },
-        {
-          "rank": 5,
-          "username": "insults",
-          "minesPlaced": 5118,
-          "playerRank": 31,
-          "kills": 8,
-          "deaths": 22,
-          "kdRatio": 0.36363636363636365
-        },
-        {
-          "rank": 6,
-          "username": "Tibo",
-          "minesPlaced": 2793,
-          "playerRank": 31,
-          "kills": 0,
-          "deaths": 5,
-          "kdRatio": 0.0
         },
         {
           "rank": 7,
