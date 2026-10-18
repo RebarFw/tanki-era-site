@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T10:21:23.001516+00:00",
+  "updatedAt": "2026-10-18T11:22:22.472946+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -11,8 +11,8 @@
           "minesPlaced": 28116,
           "playerRank": 31,
           "kills": 43,
-          "deaths": 61,
-          "kdRatio": 0.7049180327868853
+          "deaths": 62,
+          "kdRatio": 0.6935483870967742
         },
         {
           "rank": 2,
@@ -26,11 +26,11 @@
         {
           "rank": 3,
           "username": "insults",
-          "minesPlaced": 7618,
+          "minesPlaced": 8102,
           "playerRank": 31,
           "kills": 11,
-          "deaths": 29,
-          "kdRatio": 0.3793103448275862
+          "deaths": 30,
+          "kdRatio": 0.36666666666666664
         },
         {
           "rank": 4,
@@ -78,8 +78,8 @@
           "minesPlaced": 28116,
           "playerRank": 31,
           "kills": 43,
-          "deaths": 61,
-          "kdRatio": 0.7049180327868853
+          "deaths": 62,
+          "kdRatio": 0.6935483870967742
         },
         {
           "rank": 2,
@@ -93,11 +93,11 @@
         {
           "rank": 3,
           "username": "insults",
-          "minesPlaced": 7619,
+          "minesPlaced": 8103,
           "playerRank": 31,
           "kills": 11,
-          "deaths": 29,
-          "kdRatio": 0.3793103448275862
+          "deaths": 30,
+          "kdRatio": 0.36666666666666664
         },
         {
           "rank": 4,
