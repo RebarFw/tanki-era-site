@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T01:28:23.034113+00:00",
+  "updatedAt": "2026-10-19T02:29:22.489498+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -16,6 +16,15 @@
         },
         {
           "rank": 2,
+          "username": "Tibo",
+          "minesPlaced": 16461,
+          "playerRank": 31,
+          "kills": 1,
+          "deaths": 16,
+          "kdRatio": 0.0625
+        },
+        {
+          "rank": 3,
           "username": "insults",
           "minesPlaced": 11666,
           "playerRank": 31,
@@ -24,18 +33,9 @@
           "kdRatio": 0.3333333333333333
         },
         {
-          "rank": 3,
-          "username": "Sexy",
-          "minesPlaced": 8678,
-          "playerRank": 31,
-          "kills": 17,
-          "deaths": 25,
-          "kdRatio": 0.68
-        },
-        {
           "rank": 4,
           "username": "X",
-          "minesPlaced": 7746,
+          "minesPlaced": 10276,
           "playerRank": 31,
           "kills": 19,
           "deaths": 45,
@@ -43,12 +43,12 @@
         },
         {
           "rank": 5,
-          "username": "Tibo",
-          "minesPlaced": 6170,
+          "username": "Sexy",
+          "minesPlaced": 8678,
           "playerRank": 31,
-          "kills": 1,
-          "deaths": 15,
-          "kdRatio": 0.06666666666666667
+          "kills": 17,
+          "deaths": 25,
+          "kdRatio": 0.68
         },
         {
           "rank": 6,
@@ -65,13 +65,32 @@
           "minesPlaced": 2672,
           "playerRank": 31,
           "kills": 4,
-          "deaths": 72,
-          "kdRatio": 0.05555555555555555
+          "deaths": 77,
+          "kdRatio": 0.05194805194805195
         }
       ]
     },
     "weekly": {
-      "entries": [],
+      "entries": [
+        {
+          "rank": 1,
+          "username": "Tibo",
+          "minesPlaced": 10291,
+          "playerRank": 31,
+          "kills": 1,
+          "deaths": 16,
+          "kdRatio": 0.0625
+        },
+        {
+          "rank": 2,
+          "username": "X",
+          "minesPlaced": 2530,
+          "playerRank": 31,
+          "kills": 19,
+          "deaths": 45,
+          "kdRatio": 0.4222222222222222
+        }
+      ],
       "weekStart": "2026-10-19",
       "weekEnds": "2026-10-25",
       "resetsAt": 1792972800000
