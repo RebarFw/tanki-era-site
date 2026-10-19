@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T23:27:23.098386+00:00",
+  "updatedAt": "2026-10-19T00:28:22.595498+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -71,74 +71,10 @@
       ]
     },
     "weekly": {
-      "entries": [
-        {
-          "rank": 1,
-          "username": "LoveSick",
-          "minesPlaced": 28238,
-          "playerRank": 31,
-          "kills": 50,
-          "deaths": 70,
-          "kdRatio": 0.7142857142857143
-        },
-        {
-          "rank": 2,
-          "username": "insults",
-          "minesPlaced": 11667,
-          "playerRank": 31,
-          "kills": 11,
-          "deaths": 33,
-          "kdRatio": 0.3333333333333333
-        },
-        {
-          "rank": 3,
-          "username": "Sexy",
-          "minesPlaced": 8678,
-          "playerRank": 31,
-          "kills": 17,
-          "deaths": 25,
-          "kdRatio": 0.68
-        },
-        {
-          "rank": 4,
-          "username": "X",
-          "minesPlaced": 7746,
-          "playerRank": 31,
-          "kills": 19,
-          "deaths": 45,
-          "kdRatio": 0.4222222222222222
-        },
-        {
-          "rank": 5,
-          "username": "Tibo",
-          "minesPlaced": 6170,
-          "playerRank": 31,
-          "kills": 1,
-          "deaths": 14,
-          "kdRatio": 0.07142857142857142
-        },
-        {
-          "rank": 6,
-          "username": "Sol6.1",
-          "minesPlaced": 6118,
-          "playerRank": 31,
-          "kills": 52,
-          "deaths": 3,
-          "kdRatio": 17.333333333333332
-        },
-        {
-          "rank": 7,
-          "username": "Asuna",
-          "minesPlaced": 2672,
-          "playerRank": 31,
-          "kills": 4,
-          "deaths": 72,
-          "kdRatio": 0.05555555555555555
-        }
-      ],
-      "weekStart": "2026-10-12",
-      "weekEnds": "2026-10-18",
-      "resetsAt": 1792368000000
+      "entries": [],
+      "weekStart": "2026-10-19",
+      "weekEnds": "2026-10-25",
+      "resetsAt": 1792972800000
     }
   }
 }
