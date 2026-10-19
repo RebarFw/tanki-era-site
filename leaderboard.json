@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T05:30:22.929419+00:00",
+  "updatedAt": "2026-10-19T06:31:22.414463+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -11,8 +11,8 @@
           "minesPlaced": 28238,
           "playerRank": 31,
           "kills": 50,
-          "deaths": 71,
-          "kdRatio": 0.704225352112676
+          "deaths": 72,
+          "kdRatio": 0.6944444444444444
         },
         {
           "rank": 2,
@@ -20,8 +20,8 @@
           "minesPlaced": 16461,
           "playerRank": 31,
           "kills": 1,
-          "deaths": 16,
-          "kdRatio": 0.0625
+          "deaths": 17,
+          "kdRatio": 0.058823529411764705
         },
         {
           "rank": 3,
@@ -67,6 +67,15 @@
           "kills": 4,
           "deaths": 77,
           "kdRatio": 0.05194805194805195
+        },
+        {
+          "rank": 8,
+          "username": "ddd",
+          "minesPlaced": 254,
+          "playerRank": 31,
+          "kills": 0,
+          "deaths": 0,
+          "kdRatio": 0.0
         }
       ]
     },
@@ -78,8 +87,8 @@
           "minesPlaced": 10291,
           "playerRank": 31,
           "kills": 1,
-          "deaths": 16,
-          "kdRatio": 0.0625
+          "deaths": 17,
+          "kdRatio": 0.058823529411764705
         },
         {
           "rank": 2,
@@ -89,6 +98,15 @@
           "kills": 19,
           "deaths": 45,
           "kdRatio": 0.4222222222222222
+        },
+        {
+          "rank": 3,
+          "username": "ddd",
+          "minesPlaced": 254,
+          "playerRank": 31,
+          "kills": 0,
+          "deaths": 0,
+          "kdRatio": 0.0
         }
       ],
       "weekStart": "2026-10-19",
