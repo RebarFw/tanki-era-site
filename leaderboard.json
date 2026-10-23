@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T17:36:22.863988+00:00",
+  "updatedAt": "2026-10-23T12:15:22.805602+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -8,7 +8,7 @@
         {
           "rank": 1,
           "username": "LoveSick",
-          "minesPlaced": 30945,
+          "minesPlaced": 32046,
           "playerRank": 31,
           "kills": 50,
           "deaths": 73,
@@ -43,21 +43,21 @@
         },
         {
           "rank": 5,
+          "username": "www",
+          "minesPlaced": 13258,
+          "playerRank": 31,
+          "kills": 19,
+          "deaths": 34,
+          "kdRatio": 0.5588235294117647
+        },
+        {
+          "rank": 6,
           "username": "X",
           "minesPlaced": 10276,
           "playerRank": 31,
           "kills": 19,
           "deaths": 45,
           "kdRatio": 0.4222222222222222
-        },
-        {
-          "rank": 6,
-          "username": "www",
-          "minesPlaced": 9888,
-          "playerRank": 31,
-          "kills": 19,
-          "deaths": 33,
-          "kdRatio": 0.5757575757575758
         },
         {
           "rank": 7,
@@ -110,21 +110,21 @@
         },
         {
           "rank": 2,
+          "username": "www",
+          "minesPlaced": 13258,
+          "playerRank": 31,
+          "kills": 19,
+          "deaths": 34,
+          "kdRatio": 0.5588235294117647
+        },
+        {
+          "rank": 3,
           "username": "Tibo",
           "minesPlaced": 10291,
           "playerRank": 31,
           "kills": 1,
           "deaths": 17,
           "kdRatio": 0.058823529411764705
-        },
-        {
-          "rank": 3,
-          "username": "www",
-          "minesPlaced": 9888,
-          "playerRank": 31,
-          "kills": 19,
-          "deaths": 33,
-          "kdRatio": 0.5757575757575758
         },
         {
           "rank": 4,
@@ -147,7 +147,7 @@
         {
           "rank": 6,
           "username": "LoveSick",
-          "minesPlaced": 2707,
+          "minesPlaced": 3808,
           "playerRank": 31,
           "kills": 50,
           "deaths": 73,
