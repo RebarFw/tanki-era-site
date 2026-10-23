@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-23T15:17:22.211150+00:00",
+  "updatedAt": "2026-10-23T16:17:22.693023+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -92,8 +92,8 @@
           "minesPlaced": 2672,
           "playerRank": 31,
           "kills": 4,
-          "deaths": 77,
-          "kdRatio": 0.05194805194805195
+          "deaths": 78,
+          "kdRatio": 0.05128205128205128
         }
       ]
     },
