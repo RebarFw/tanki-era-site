@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-23T14:16:22.758084+00:00",
+  "updatedAt": "2026-10-23T15:17:22.211150+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -43,6 +43,15 @@
         },
         {
           "rank": 5,
+          "username": "Sexy",
+          "minesPlaced": 13908,
+          "playerRank": 31,
+          "kills": 19,
+          "deaths": 38,
+          "kdRatio": 0.5
+        },
+        {
+          "rank": 6,
           "username": "www",
           "minesPlaced": 13258,
           "playerRank": 31,
@@ -51,22 +60,13 @@
           "kdRatio": 0.5588235294117647
         },
         {
-          "rank": 6,
+          "rank": 7,
           "username": "X",
           "minesPlaced": 10276,
           "playerRank": 31,
           "kills": 19,
           "deaths": 45,
           "kdRatio": 0.4222222222222222
-        },
-        {
-          "rank": 7,
-          "username": "Sexy",
-          "minesPlaced": 10038,
-          "playerRank": 31,
-          "kills": 19,
-          "deaths": 36,
-          "kdRatio": 0.5277777777777778
         },
         {
           "rank": 8,
@@ -146,6 +146,15 @@
         },
         {
           "rank": 6,
+          "username": "Sexy",
+          "minesPlaced": 5230,
+          "playerRank": 31,
+          "kills": 19,
+          "deaths": 38,
+          "kdRatio": 0.5
+        },
+        {
+          "rank": 7,
           "username": "LoveSick",
           "minesPlaced": 4147,
           "playerRank": 31,
@@ -154,22 +163,13 @@
           "kdRatio": 0.6410256410256411
         },
         {
-          "rank": 7,
+          "rank": 8,
           "username": "X",
           "minesPlaced": 2530,
           "playerRank": 31,
           "kills": 19,
           "deaths": 45,
           "kdRatio": 0.4222222222222222
-        },
-        {
-          "rank": 8,
-          "username": "Sexy",
-          "minesPlaced": 1360,
-          "playerRank": 31,
-          "kills": 19,
-          "deaths": 36,
-          "kdRatio": 0.5277777777777778
         }
       ],
       "weekStart": "2026-10-19",
