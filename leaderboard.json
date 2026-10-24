@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T12:28:22.812635+00:00",
+  "updatedAt": "2026-10-24T13:29:22.306007+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -61,21 +61,21 @@
         },
         {
           "rank": 7,
+          "username": "ddd",
+          "minesPlaced": 12412,
+          "playerRank": 31,
+          "kills": 0,
+          "deaths": 4,
+          "kdRatio": 0.0
+        },
+        {
+          "rank": 8,
           "username": "X",
           "minesPlaced": 10276,
           "playerRank": 31,
           "kills": 19,
           "deaths": 45,
           "kdRatio": 0.4222222222222222
-        },
-        {
-          "rank": 8,
-          "username": "ddd",
-          "minesPlaced": 9368,
-          "playerRank": 31,
-          "kills": 0,
-          "deaths": 2,
-          "kdRatio": 0.0
         },
         {
           "rank": 9,
@@ -119,6 +119,15 @@
         },
         {
           "rank": 3,
+          "username": "ddd",
+          "minesPlaced": 12413,
+          "playerRank": 31,
+          "kills": 0,
+          "deaths": 4,
+          "kdRatio": 0.0
+        },
+        {
+          "rank": 4,
           "username": "Tibo",
           "minesPlaced": 10291,
           "playerRank": 31,
@@ -127,7 +136,7 @@
           "kdRatio": 0.058823529411764705
         },
         {
-          "rank": 4,
+          "rank": 5,
           "username": "LoveSick",
           "minesPlaced": 10261,
           "playerRank": 31,
@@ -136,22 +145,13 @@
           "kdRatio": 0.6172839506172839
         },
         {
-          "rank": 5,
+          "rank": 6,
           "username": "insults",
           "minesPlaced": 9912,
           "playerRank": 31,
           "kills": 27,
           "deaths": 45,
           "kdRatio": 0.6
-        },
-        {
-          "rank": 6,
-          "username": "ddd",
-          "minesPlaced": 9369,
-          "playerRank": 31,
-          "kills": 0,
-          "deaths": 2,
-          "kdRatio": 0.0
         },
         {
           "rank": 7,
