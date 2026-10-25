@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T13:42:22.140016+00:00",
+  "updatedAt": "2026-10-25T15:42:23.064608+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -8,7 +8,7 @@
         {
           "rank": 1,
           "username": "LoveSick",
-          "minesPlaced": 52593,
+          "minesPlaced": 52697,
           "playerRank": 31,
           "kills": 65,
           "deaths": 87,
@@ -111,7 +111,7 @@
         {
           "rank": 2,
           "username": "LoveSick",
-          "minesPlaced": 24355,
+          "minesPlaced": 24459,
           "playerRank": 31,
           "kills": 65,
           "deaths": 87,
