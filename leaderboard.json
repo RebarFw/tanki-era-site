@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T03:35:23.102089+00:00",
+  "updatedAt": "2026-10-25T04:36:23.093901+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -8,11 +8,11 @@
         {
           "rank": 1,
           "username": "LoveSick",
-          "minesPlaced": 43173,
+          "minesPlaced": 44146,
           "playerRank": 31,
           "kills": 50,
-          "deaths": 84,
-          "kdRatio": 0.5952380952380952
+          "deaths": 85,
+          "kdRatio": 0.5882352941176471
         },
         {
           "rank": 2,
@@ -26,7 +26,7 @@
         {
           "rank": 3,
           "username": "Tibo",
-          "minesPlaced": 16461,
+          "minesPlaced": 16646,
           "playerRank": 31,
           "kills": 1,
           "deaths": 17,
@@ -101,21 +101,21 @@
       "entries": [
         {
           "rank": 1,
+          "username": "LoveSick",
+          "minesPlaced": 15908,
+          "playerRank": 31,
+          "kills": 50,
+          "deaths": 85,
+          "kdRatio": 0.5882352941176471
+        },
+        {
+          "rank": 2,
           "username": "Astra",
           "minesPlaced": 15549,
           "playerRank": 31,
           "kills": 18,
           "deaths": 27,
           "kdRatio": 0.6666666666666666
-        },
-        {
-          "rank": 2,
-          "username": "LoveSick",
-          "minesPlaced": 14935,
-          "playerRank": 31,
-          "kills": 50,
-          "deaths": 84,
-          "kdRatio": 0.5952380952380952
         },
         {
           "rank": 3,
@@ -138,7 +138,7 @@
         {
           "rank": 5,
           "username": "Tibo",
-          "minesPlaced": 10291,
+          "minesPlaced": 10476,
           "playerRank": 31,
           "kills": 1,
           "deaths": 17,
