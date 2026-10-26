@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T23:46:22.797972+00:00",
+  "updatedAt": "2026-10-26T00:47:22.332331+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -98,83 +98,10 @@
       ]
     },
     "weekly": {
-      "entries": [
-        {
-          "rank": 1,
-          "username": "Astra",
-          "minesPlaced": 27979,
-          "playerRank": 31,
-          "kills": 35,
-          "deaths": 55,
-          "kdRatio": 0.6363636363636364
-        },
-        {
-          "rank": 2,
-          "username": "LoveSick",
-          "minesPlaced": 24459,
-          "playerRank": 31,
-          "kills": 65,
-          "deaths": 87,
-          "kdRatio": 0.7471264367816092
-        },
-        {
-          "rank": 3,
-          "username": "ddd",
-          "minesPlaced": 24062,
-          "playerRank": 31,
-          "kills": 22,
-          "deaths": 28,
-          "kdRatio": 0.7857142857142857
-        },
-        {
-          "rank": 4,
-          "username": "www",
-          "minesPlaced": 14530,
-          "playerRank": 31,
-          "kills": 22,
-          "deaths": 38,
-          "kdRatio": 0.5789473684210527
-        },
-        {
-          "rank": 5,
-          "username": "Tibo",
-          "minesPlaced": 10476,
-          "playerRank": 31,
-          "kills": 1,
-          "deaths": 17,
-          "kdRatio": 0.058823529411764705
-        },
-        {
-          "rank": 6,
-          "username": "insults",
-          "minesPlaced": 9912,
-          "playerRank": 31,
-          "kills": 27,
-          "deaths": 45,
-          "kdRatio": 0.6
-        },
-        {
-          "rank": 7,
-          "username": "Sexy",
-          "minesPlaced": 5230,
-          "playerRank": 31,
-          "kills": 19,
-          "deaths": 38,
-          "kdRatio": 0.5
-        },
-        {
-          "rank": 8,
-          "username": "X",
-          "minesPlaced": 2530,
-          "playerRank": 31,
-          "kills": 19,
-          "deaths": 45,
-          "kdRatio": 0.4222222222222222
-        }
-      ],
-      "weekStart": "2026-10-19",
-      "weekEnds": "2026-10-25",
-      "resetsAt": 1792972800000
+      "entries": [],
+      "weekStart": "2026-10-26",
+      "weekEnds": "2026-11-01",
+      "resetsAt": 1793577600000
     }
   }
 }
