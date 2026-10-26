@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T10:52:22.199458+00:00",
+  "updatedAt": "2026-10-26T11:52:22.664571+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -26,7 +26,7 @@
         {
           "rank": 3,
           "username": "ddd",
-          "minesPlaced": 24061,
+          "minesPlaced": 26143,
           "playerRank": 31,
           "kills": 22,
           "deaths": 28,
@@ -98,7 +98,17 @@
       ]
     },
     "weekly": {
-      "entries": [],
+      "entries": [
+        {
+          "rank": 1,
+          "username": "ddd",
+          "minesPlaced": 2082,
+          "playerRank": 31,
+          "kills": 22,
+          "deaths": 28,
+          "kdRatio": 0.7857142857142857
+        }
+      ],
       "weekStart": "2026-10-26",
       "weekEnds": "2026-11-01",
       "resetsAt": 1793577600000
