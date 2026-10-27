@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-27T09:48:22.307895+00:00",
+  "updatedAt": "2026-10-27T10:48:22.732090+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -8,11 +8,11 @@
         {
           "rank": 1,
           "username": "LoveSick",
-          "minesPlaced": 56392,
+          "minesPlaced": 69914,
           "playerRank": 31,
-          "kills": 65,
-          "deaths": 87,
-          "kdRatio": 0.7471264367816092
+          "kills": 73,
+          "deaths": 93,
+          "kdRatio": 0.7849462365591398
         },
         {
           "rank": 2,
@@ -43,6 +43,15 @@
         },
         {
           "rank": 5,
+          "username": "Sexy",
+          "minesPlaced": 19306,
+          "playerRank": 31,
+          "kills": 23,
+          "deaths": 48,
+          "kdRatio": 0.4791666666666667
+        },
+        {
+          "rank": 6,
           "username": "Tibo",
           "minesPlaced": 16646,
           "playerRank": 31,
@@ -51,22 +60,13 @@
           "kdRatio": 0.058823529411764705
         },
         {
-          "rank": 6,
+          "rank": 7,
           "username": "www",
           "minesPlaced": 14530,
           "playerRank": 31,
           "kills": 22,
           "deaths": 38,
           "kdRatio": 0.5789473684210527
-        },
-        {
-          "rank": 7,
-          "username": "Sexy",
-          "minesPlaced": 13908,
-          "playerRank": 31,
-          "kills": 19,
-          "deaths": 38,
-          "kdRatio": 0.5
         },
         {
           "rank": 8,
@@ -102,14 +102,23 @@
         {
           "rank": 1,
           "username": "LoveSick",
-          "minesPlaced": 3695,
+          "minesPlaced": 17217,
           "playerRank": 31,
-          "kills": 65,
-          "deaths": 87,
-          "kdRatio": 0.7471264367816092
+          "kills": 73,
+          "deaths": 93,
+          "kdRatio": 0.7849462365591398
         },
         {
           "rank": 2,
+          "username": "Sexy",
+          "minesPlaced": 5398,
+          "playerRank": 31,
+          "kills": 23,
+          "deaths": 48,
+          "kdRatio": 0.4791666666666667
+        },
+        {
+          "rank": 3,
           "username": "ddd",
           "minesPlaced": 2104,
           "playerRank": 31,
