@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-27T10:48:22.732090+00:00",
+  "updatedAt": "2026-10-28T10:02:22.865213+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -8,11 +8,11 @@
         {
           "rank": 1,
           "username": "LoveSick",
-          "minesPlaced": 69914,
+          "minesPlaced": 71835,
           "playerRank": 31,
-          "kills": 73,
-          "deaths": 93,
-          "kdRatio": 0.7849462365591398
+          "kills": 74,
+          "deaths": 95,
+          "kdRatio": 0.7789473684210526
         },
         {
           "rank": 2,
@@ -94,6 +94,15 @@
           "kills": 5,
           "deaths": 83,
           "kdRatio": 0.060240963855421686
+        },
+        {
+          "rank": 11,
+          "username": "Claude",
+          "minesPlaced": 84,
+          "playerRank": 31,
+          "kills": 0,
+          "deaths": 16,
+          "kdRatio": 0.0
         }
       ]
     },
@@ -102,11 +111,11 @@
         {
           "rank": 1,
           "username": "LoveSick",
-          "minesPlaced": 17217,
+          "minesPlaced": 19138,
           "playerRank": 31,
-          "kills": 73,
-          "deaths": 93,
-          "kdRatio": 0.7849462365591398
+          "kills": 74,
+          "deaths": 95,
+          "kdRatio": 0.7789473684210526
         },
         {
           "rank": 2,
@@ -125,6 +134,15 @@
           "kills": 22,
           "deaths": 28,
           "kdRatio": 0.7857142857142857
+        },
+        {
+          "rank": 4,
+          "username": "Claude",
+          "minesPlaced": 84,
+          "playerRank": 31,
+          "kills": 0,
+          "deaths": 16,
+          "kdRatio": 0.0
         }
       ],
       "weekStart": "2026-10-26",
