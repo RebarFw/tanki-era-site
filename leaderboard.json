@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T18:47:22.998090+00:00",
+  "updatedAt": "2026-10-30T19:48:22.483948+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -34,30 +34,30 @@
         },
         {
           "rank": 4,
+          "username": "Sexy",
+          "minesPlaced": 23781,
+          "playerRank": 48,
+          "kills": 25,
+          "deaths": 55,
+          "kdRatio": 0.45454545454545453
+        },
+        {
+          "rank": 5,
+          "username": "Luna",
+          "minesPlaced": 22920,
+          "playerRank": 31,
+          "kills": 27,
+          "deaths": 13,
+          "kdRatio": 2.076923076923077
+        },
+        {
+          "rank": 6,
           "username": "insults",
           "minesPlaced": 22764,
           "playerRank": 31,
           "kills": 27,
           "deaths": 49,
           "kdRatio": 0.5510204081632653
-        },
-        {
-          "rank": 5,
-          "username": "Luna",
-          "minesPlaced": 21029,
-          "playerRank": 31,
-          "kills": 22,
-          "deaths": 11,
-          "kdRatio": 2.0
-        },
-        {
-          "rank": 6,
-          "username": "Sexy",
-          "minesPlaced": 19525,
-          "playerRank": 31,
-          "kills": 23,
-          "deaths": 49,
-          "kdRatio": 0.46938775510204084
         },
         {
           "rank": 7,
@@ -129,20 +129,20 @@
         {
           "rank": 2,
           "username": "Luna",
-          "minesPlaced": 21029,
+          "minesPlaced": 22920,
           "playerRank": 31,
-          "kills": 22,
-          "deaths": 11,
-          "kdRatio": 2.0
+          "kills": 27,
+          "deaths": 13,
+          "kdRatio": 2.076923076923077
         },
         {
           "rank": 3,
           "username": "Sexy",
-          "minesPlaced": 5617,
-          "playerRank": 31,
-          "kills": 23,
-          "deaths": 49,
-          "kdRatio": 0.46938775510204084
+          "minesPlaced": 9873,
+          "playerRank": 48,
+          "kills": 25,
+          "deaths": 55,
+          "kdRatio": 0.45454545454545453
         },
         {
           "rank": 4,
