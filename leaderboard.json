@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T17:47:22.566260+00:00",
+  "updatedAt": "2026-10-30T18:47:22.998090+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -8,11 +8,11 @@
         {
           "rank": 1,
           "username": "LoveSick",
-          "minesPlaced": 76792,
+          "minesPlaced": 77569,
           "playerRank": 31,
-          "kills": 83,
-          "deaths": 109,
-          "kdRatio": 0.7614678899082569
+          "kills": 85,
+          "deaths": 118,
+          "kdRatio": 0.7203389830508474
         },
         {
           "rank": 2,
@@ -20,8 +20,8 @@
           "minesPlaced": 28116,
           "playerRank": 31,
           "kills": 24,
-          "deaths": 28,
-          "kdRatio": 0.8571428571428571
+          "deaths": 31,
+          "kdRatio": 0.7741935483870968
         },
         {
           "rank": 3,
@@ -43,15 +43,24 @@
         },
         {
           "rank": 5,
-          "username": "Sexy",
-          "minesPlaced": 19306,
+          "username": "Luna",
+          "minesPlaced": 21029,
           "playerRank": 31,
-          "kills": 23,
-          "deaths": 48,
-          "kdRatio": 0.4791666666666667
+          "kills": 22,
+          "deaths": 11,
+          "kdRatio": 2.0
         },
         {
           "rank": 6,
+          "username": "Sexy",
+          "minesPlaced": 19525,
+          "playerRank": 31,
+          "kills": 23,
+          "deaths": 49,
+          "kdRatio": 0.46938775510204084
+        },
+        {
+          "rank": 7,
           "username": "Tibo",
           "minesPlaced": 16646,
           "playerRank": 31,
@@ -60,7 +69,7 @@
           "kdRatio": 0.058823529411764705
         },
         {
-          "rank": 7,
+          "rank": 8,
           "username": "www",
           "minesPlaced": 15287,
           "playerRank": 31,
@@ -69,22 +78,13 @@
           "kdRatio": 0.5641025641025641
         },
         {
-          "rank": 8,
+          "rank": 9,
           "username": "X",
           "minesPlaced": 10276,
           "playerRank": 31,
           "kills": 19,
           "deaths": 45,
           "kdRatio": 0.4222222222222222
-        },
-        {
-          "rank": 9,
-          "username": "Luna",
-          "minesPlaced": 9770,
-          "playerRank": 31,
-          "kills": 10,
-          "deaths": 9,
-          "kdRatio": 1.1111111111111112
         },
         {
           "rank": 10,
@@ -120,29 +120,29 @@
         {
           "rank": 1,
           "username": "LoveSick",
-          "minesPlaced": 24095,
+          "minesPlaced": 24872,
           "playerRank": 31,
-          "kills": 83,
-          "deaths": 109,
-          "kdRatio": 0.7614678899082569
+          "kills": 85,
+          "deaths": 118,
+          "kdRatio": 0.7203389830508474
         },
         {
           "rank": 2,
           "username": "Luna",
-          "minesPlaced": 9770,
+          "minesPlaced": 21029,
           "playerRank": 31,
-          "kills": 10,
-          "deaths": 9,
-          "kdRatio": 1.1111111111111112
+          "kills": 22,
+          "deaths": 11,
+          "kdRatio": 2.0
         },
         {
           "rank": 3,
           "username": "Sexy",
-          "minesPlaced": 5398,
+          "minesPlaced": 5617,
           "playerRank": 31,
           "kills": 23,
-          "deaths": 48,
-          "kdRatio": 0.4791666666666667
+          "deaths": 49,
+          "kdRatio": 0.46938775510204084
         },
         {
           "rank": 4,
@@ -150,8 +150,8 @@
           "minesPlaced": 4055,
           "playerRank": 31,
           "kills": 24,
-          "deaths": 28,
-          "kdRatio": 0.8571428571428571
+          "deaths": 31,
+          "kdRatio": 0.7741935483870968
         },
         {
           "rank": 5,
