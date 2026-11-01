@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T09:06:22.824081+00:00",
+  "updatedAt": "2026-11-01T10:07:32.618090+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -17,11 +17,11 @@
         {
           "rank": 2,
           "username": "Luna",
-          "minesPlaced": 59424,
+          "minesPlaced": 63484,
           "playerRank": 31,
-          "kills": 43,
-          "deaths": 19,
-          "kdRatio": 2.263157894736842
+          "kills": 46,
+          "deaths": 20,
+          "kdRatio": 2.3
         },
         {
           "rank": 3,
@@ -35,11 +35,11 @@
         {
           "rank": 4,
           "username": "Astra",
-          "minesPlaced": 27979,
+          "minesPlaced": 28037,
           "playerRank": 31,
-          "kills": 36,
-          "deaths": 74,
-          "kdRatio": 0.4864864864864865
+          "kills": 37,
+          "deaths": 78,
+          "kdRatio": 0.47435897435897434
         },
         {
           "rank": 5,
@@ -120,11 +120,11 @@
         {
           "rank": 1,
           "username": "Luna",
-          "minesPlaced": 59424,
+          "minesPlaced": 63484,
           "playerRank": 31,
-          "kills": 43,
-          "deaths": 19,
-          "kdRatio": 2.263157894736842
+          "kills": 46,
+          "deaths": 20,
+          "kdRatio": 2.3
         },
         {
           "rank": 2,
@@ -179,6 +179,15 @@
           "kills": 0,
           "deaths": 16,
           "kdRatio": 0.0
+        },
+        {
+          "rank": 8,
+          "username": "Astra",
+          "minesPlaced": 58,
+          "playerRank": 31,
+          "kills": 37,
+          "deaths": 78,
+          "kdRatio": 0.47435897435897434
         }
       ],
       "weekStart": "2026-10-26",
