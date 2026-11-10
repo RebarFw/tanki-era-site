@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T20:48:34.901183+00:00",
+  "updatedAt": "2026-11-10T21:49:34.399850+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -80,7 +80,7 @@
         {
           "rank": 9,
           "username": "Owner",
-          "minesPlaced": 20962,
+          "minesPlaced": 22573,
           "playerRank": 27,
           "kills": 23,
           "deaths": 34,
@@ -299,21 +299,21 @@
         },
         {
           "rank": 4,
+          "username": "Owner",
+          "minesPlaced": 3547,
+          "playerRank": 27,
+          "kills": 23,
+          "deaths": 34,
+          "kdRatio": 0.6764705882352942
+        },
+        {
+          "rank": 5,
           "username": "ddd",
           "minesPlaced": 2725,
           "playerRank": 27,
           "kills": 39,
           "deaths": 26,
           "kdRatio": 1.5
-        },
-        {
-          "rank": 5,
-          "username": "Owner",
-          "minesPlaced": 1936,
-          "playerRank": 27,
-          "kills": 23,
-          "deaths": 34,
-          "kdRatio": 0.6764705882352942
         },
         {
           "rank": 6,
