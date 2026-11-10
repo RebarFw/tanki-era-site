@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T16:46:34.996028+00:00",
+  "updatedAt": "2026-11-10T17:47:34.457734+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -26,7 +26,7 @@
         {
           "rank": 3,
           "username": "Angel",
-          "minesPlaced": 66766,
+          "minesPlaced": 72621,
           "playerRank": 27,
           "kills": 139,
           "deaths": 157,
@@ -281,6 +281,15 @@
         },
         {
           "rank": 2,
+          "username": "Angel",
+          "minesPlaced": 6626,
+          "playerRank": 27,
+          "kills": 139,
+          "deaths": 157,
+          "kdRatio": 0.8853503184713376
+        },
+        {
+          "rank": 3,
           "username": "Luna",
           "minesPlaced": 5836,
           "playerRank": 31,
@@ -289,7 +298,7 @@
           "kdRatio": 1.127659574468085
         },
         {
-          "rank": 3,
+          "rank": 4,
           "username": "ddd",
           "minesPlaced": 2725,
           "playerRank": 27,
@@ -298,7 +307,7 @@
           "kdRatio": 1.5
         },
         {
-          "rank": 4,
+          "rank": 5,
           "username": "Owner",
           "minesPlaced": 1936,
           "playerRank": 27,
@@ -307,7 +316,7 @@
           "kdRatio": 0.6764705882352942
         },
         {
-          "rank": 5,
+          "rank": 6,
           "username": "Daddy",
           "minesPlaced": 1424,
           "playerRank": 27,
@@ -316,7 +325,7 @@
           "kdRatio": 0.42857142857142855
         },
         {
-          "rank": 6,
+          "rank": 7,
           "username": "Thuggin",
           "minesPlaced": 1101,
           "playerRank": 27,
@@ -325,22 +334,13 @@
           "kdRatio": 0.0
         },
         {
-          "rank": 7,
+          "rank": 8,
           "username": "Nova",
           "minesPlaced": 968,
           "playerRank": 27,
           "kills": 26,
           "deaths": 11,
           "kdRatio": 2.3636363636363638
-        },
-        {
-          "rank": 8,
-          "username": "Angel",
-          "minesPlaced": 771,
-          "playerRank": 27,
-          "kills": 139,
-          "deaths": 157,
-          "kdRatio": 0.8853503184713376
         },
         {
           "rank": 9,
