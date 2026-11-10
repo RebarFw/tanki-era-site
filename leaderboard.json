@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T17:47:34.457734+00:00",
+  "updatedAt": "2026-11-10T18:47:34.935719+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -26,7 +26,7 @@
         {
           "rank": 3,
           "username": "Angel",
-          "minesPlaced": 72621,
+          "minesPlaced": 74332,
           "playerRank": 27,
           "kills": 139,
           "deaths": 157,
@@ -272,21 +272,21 @@
       "entries": [
         {
           "rank": 1,
+          "username": "Angel",
+          "minesPlaced": 8337,
+          "playerRank": 27,
+          "kills": 139,
+          "deaths": 157,
+          "kdRatio": 0.8853503184713376
+        },
+        {
+          "rank": 2,
           "username": "Monkey",
           "minesPlaced": 7333,
           "playerRank": 27,
           "kills": 20,
           "deaths": 49,
           "kdRatio": 0.40816326530612246
-        },
-        {
-          "rank": 2,
-          "username": "Angel",
-          "minesPlaced": 6626,
-          "playerRank": 27,
-          "kills": 139,
-          "deaths": 157,
-          "kdRatio": 0.8853503184713376
         },
         {
           "rank": 3,
