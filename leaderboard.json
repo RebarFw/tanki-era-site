@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T12:45:34.127723+00:00",
+  "updatedAt": "2026-11-10T13:45:34.609695+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -71,11 +71,11 @@
         {
           "rank": 8,
           "username": "Monkey",
-          "minesPlaced": 21833,
+          "minesPlaced": 27454,
           "playerRank": 27,
           "kills": 20,
-          "deaths": 41,
-          "kdRatio": 0.4878048780487805
+          "deaths": 49,
+          "kdRatio": 0.40816326530612246
         },
         {
           "rank": 9,
@@ -272,6 +272,15 @@
       "entries": [
         {
           "rank": 1,
+          "username": "Monkey",
+          "minesPlaced": 7333,
+          "playerRank": 27,
+          "kills": 20,
+          "deaths": 49,
+          "kdRatio": 0.40816326530612246
+        },
+        {
+          "rank": 2,
           "username": "Luna",
           "minesPlaced": 5836,
           "playerRank": 31,
@@ -280,22 +289,13 @@
           "kdRatio": 1.127659574468085
         },
         {
-          "rank": 2,
+          "rank": 3,
           "username": "Owner",
           "minesPlaced": 1936,
           "playerRank": 27,
           "kills": 23,
           "deaths": 34,
           "kdRatio": 0.6764705882352942
-        },
-        {
-          "rank": 3,
-          "username": "Monkey",
-          "minesPlaced": 1712,
-          "playerRank": 27,
-          "kills": 20,
-          "deaths": 41,
-          "kdRatio": 0.4878048780487805
         },
         {
           "rank": 4,
