@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T14:45:35.064054+00:00",
+  "updatedAt": "2026-11-10T15:46:34.501430+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -169,21 +169,21 @@
         },
         {
           "rank": 19,
+          "username": "Thuggin",
+          "minesPlaced": 3320,
+          "playerRank": 27,
+          "kills": 0,
+          "deaths": 18,
+          "kdRatio": 0.0
+        },
+        {
+          "rank": 20,
           "username": "M0riArtI",
           "minesPlaced": 3245,
           "playerRank": 27,
           "kills": 9,
           "deaths": 17,
           "kdRatio": 0.5294117647058824
-        },
-        {
-          "rank": 20,
-          "username": "Thuggin",
-          "minesPlaced": 2936,
-          "playerRank": 27,
-          "kills": 0,
-          "deaths": 18,
-          "kdRatio": 0.0
         },
         {
           "rank": 21,
@@ -317,6 +317,15 @@
         },
         {
           "rank": 6,
+          "username": "Thuggin",
+          "minesPlaced": 1101,
+          "playerRank": 27,
+          "kills": 0,
+          "deaths": 18,
+          "kdRatio": 0.0
+        },
+        {
+          "rank": 7,
           "username": "Nova",
           "minesPlaced": 968,
           "playerRank": 27,
@@ -325,22 +334,13 @@
           "kdRatio": 2.3636363636363638
         },
         {
-          "rank": 7,
+          "rank": 8,
           "username": "Angel",
           "minesPlaced": 771,
           "playerRank": 27,
           "kills": 139,
           "deaths": 157,
           "kdRatio": 0.8853503184713376
-        },
-        {
-          "rank": 8,
-          "username": "Thuggin",
-          "minesPlaced": 717,
-          "playerRank": 27,
-          "kills": 0,
-          "deaths": 18,
-          "kdRatio": 0.0
         },
         {
           "rank": 9,
