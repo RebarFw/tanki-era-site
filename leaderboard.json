@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T12:56:34.448958+00:00",
+  "updatedAt": "2026-11-11T13:56:34.926585+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -80,7 +80,7 @@
         {
           "rank": 9,
           "username": "Owner",
-          "minesPlaced": 22573,
+          "minesPlaced": 22688,
           "playerRank": 27,
           "kills": 23,
           "deaths": 34,
@@ -300,7 +300,7 @@
         {
           "rank": 4,
           "username": "Owner",
-          "minesPlaced": 3547,
+          "minesPlaced": 3662,
           "playerRank": 27,
           "kills": 23,
           "deaths": 34,
