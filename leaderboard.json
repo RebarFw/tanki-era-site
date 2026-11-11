@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T14:57:34.405194+00:00",
+  "updatedAt": "2026-11-11T15:57:34.845508+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -61,21 +61,21 @@
         },
         {
           "rank": 7,
+          "username": "Monkey",
+          "minesPlaced": 30645,
+          "playerRank": 27,
+          "kills": 20,
+          "deaths": 50,
+          "kdRatio": 0.4
+        },
+        {
+          "rank": 8,
           "username": "Astra",
           "minesPlaced": 28576,
           "playerRank": 31,
           "kills": 39,
           "deaths": 86,
           "kdRatio": 0.45348837209302323
-        },
-        {
-          "rank": 8,
-          "username": "Monkey",
-          "minesPlaced": 27605,
-          "playerRank": 27,
-          "kills": 20,
-          "deaths": 50,
-          "kdRatio": 0.4
         },
         {
           "rank": 9,
@@ -272,21 +272,21 @@
       "entries": [
         {
           "rank": 1,
+          "username": "Monkey",
+          "minesPlaced": 10524,
+          "playerRank": 27,
+          "kills": 20,
+          "deaths": 50,
+          "kdRatio": 0.4
+        },
+        {
+          "rank": 2,
           "username": "Angel",
           "minesPlaced": 10205,
           "playerRank": 27,
           "kills": 139,
           "deaths": 158,
           "kdRatio": 0.879746835443038
-        },
-        {
-          "rank": 2,
-          "username": "Monkey",
-          "minesPlaced": 7484,
-          "playerRank": 27,
-          "kills": 20,
-          "deaths": 50,
-          "kdRatio": 0.4
         },
         {
           "rank": 3,
