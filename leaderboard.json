@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T21:13:34.288394+00:00",
+  "updatedAt": "2026-11-12T22:13:34.649213+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -16,21 +16,21 @@
         },
         {
           "rank": 2,
+          "username": "Angel",
+          "minesPlaced": 85588,
+          "playerRank": 27,
+          "kills": 162,
+          "deaths": 168,
+          "kdRatio": 0.9642857142857143
+        },
+        {
+          "rank": 3,
           "username": "LoveSick",
           "minesPlaced": 78480,
           "playerRank": 31,
           "kills": 85,
           "deaths": 120,
           "kdRatio": 0.7083333333333334
-        },
-        {
-          "rank": 3,
-          "username": "Angel",
-          "minesPlaced": 76200,
-          "playerRank": 27,
-          "kills": 139,
-          "deaths": 158,
-          "kdRatio": 0.879746835443038
         },
         {
           "rank": 4,
@@ -80,11 +80,11 @@
         {
           "rank": 9,
           "username": "Owner",
-          "minesPlaced": 23118,
+          "minesPlaced": 25580,
           "playerRank": 27,
-          "kills": 23,
-          "deaths": 35,
-          "kdRatio": 0.6571428571428571
+          "kills": 29,
+          "deaths": 36,
+          "kdRatio": 0.8055555555555556
         },
         {
           "rank": 10,
@@ -223,6 +223,15 @@
         },
         {
           "rank": 25,
+          "username": "MateusA7X",
+          "minesPlaced": 258,
+          "playerRank": 27,
+          "kills": 4,
+          "deaths": 30,
+          "kdRatio": 0.13333333333333333
+        },
+        {
+          "rank": 26,
           "username": "Foxic",
           "minesPlaced": 102,
           "playerRank": 27,
@@ -231,16 +240,16 @@
           "kdRatio": 0.10344827586206896
         },
         {
-          "rank": 26,
+          "rank": 27,
           "username": "Athena",
           "minesPlaced": 88,
           "playerRank": 27,
           "kills": 0,
-          "deaths": 2,
+          "deaths": 4,
           "kdRatio": 0.0
         },
         {
-          "rank": 27,
+          "rank": 28,
           "username": "Claude",
           "minesPlaced": 84,
           "playerRank": 31,
@@ -249,7 +258,7 @@
           "kdRatio": 0.0
         },
         {
-          "rank": 28,
+          "rank": 29,
           "username": "test1",
           "minesPlaced": 5,
           "playerRank": 27,
@@ -258,7 +267,7 @@
           "kdRatio": 0.0
         },
         {
-          "rank": 29,
+          "rank": 30,
           "username": "123",
           "minesPlaced": 1,
           "playerRank": 27,
@@ -291,11 +300,11 @@
         {
           "rank": 3,
           "username": "Angel",
-          "minesPlaced": 10205,
+          "minesPlaced": 19593,
           "playerRank": 27,
-          "kills": 139,
-          "deaths": 158,
-          "kdRatio": 0.879746835443038
+          "kills": 162,
+          "deaths": 168,
+          "kdRatio": 0.9642857142857143
         },
         {
           "rank": 4,
@@ -308,21 +317,21 @@
         },
         {
           "rank": 5,
+          "username": "Owner",
+          "minesPlaced": 6554,
+          "playerRank": 27,
+          "kills": 29,
+          "deaths": 36,
+          "kdRatio": 0.8055555555555556
+        },
+        {
+          "rank": 6,
           "username": "ddd",
           "minesPlaced": 5768,
           "playerRank": 27,
           "kills": 43,
           "deaths": 31,
           "kdRatio": 1.3870967741935485
-        },
-        {
-          "rank": 6,
-          "username": "Owner",
-          "minesPlaced": 4092,
-          "playerRank": 27,
-          "kills": 23,
-          "deaths": 35,
-          "kdRatio": 0.6571428571428571
         },
         {
           "rank": 7,
@@ -344,6 +353,15 @@
         },
         {
           "rank": 9,
+          "username": "MateusA7X",
+          "minesPlaced": 258,
+          "playerRank": 27,
+          "kills": 4,
+          "deaths": 30,
+          "kdRatio": 0.13333333333333333
+        },
+        {
+          "rank": 10,
           "username": "LoveSick",
           "minesPlaced": 247,
           "playerRank": 31,
@@ -352,7 +370,7 @@
           "kdRatio": 0.7083333333333334
         },
         {
-          "rank": 10,
+          "rank": 11,
           "username": "Foxic",
           "minesPlaced": 102,
           "playerRank": 27,
@@ -361,16 +379,16 @@
           "kdRatio": 0.10344827586206896
         },
         {
-          "rank": 11,
+          "rank": 12,
           "username": "Athena",
           "minesPlaced": 55,
           "playerRank": 27,
           "kills": 0,
-          "deaths": 2,
+          "deaths": 4,
           "kdRatio": 0.0
         },
         {
-          "rank": 12,
+          "rank": 13,
           "username": "Sexy",
           "minesPlaced": 28,
           "playerRank": 48,
@@ -379,7 +397,7 @@
           "kdRatio": 0.8433734939759037
         },
         {
-          "rank": 13,
+          "rank": 14,
           "username": "marble",
           "minesPlaced": 15,
           "playerRank": 27,
@@ -388,7 +406,7 @@
           "kdRatio": 0.6666666666666666
         },
         {
-          "rank": 14,
+          "rank": 15,
           "username": "123",
           "minesPlaced": 1,
           "playerRank": 27,
