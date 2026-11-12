@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T22:13:34.649213+00:00",
+  "updatedAt": "2026-11-12T23:14:34.146301+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -17,11 +17,11 @@
         {
           "rank": 2,
           "username": "Angel",
-          "minesPlaced": 85588,
+          "minesPlaced": 87442,
           "playerRank": 27,
           "kills": 162,
-          "deaths": 168,
-          "kdRatio": 0.9642857142857143
+          "deaths": 181,
+          "kdRatio": 0.8950276243093923
         },
         {
           "rank": 3,
@@ -224,11 +224,11 @@
         {
           "rank": 25,
           "username": "MateusA7X",
-          "minesPlaced": 258,
+          "minesPlaced": 354,
           "playerRank": 27,
-          "kills": 4,
-          "deaths": 30,
-          "kdRatio": 0.13333333333333333
+          "kills": 10,
+          "deaths": 40,
+          "kdRatio": 0.25
         },
         {
           "rank": 26,
@@ -290,21 +290,21 @@
         },
         {
           "rank": 2,
+          "username": "Angel",
+          "minesPlaced": 21447,
+          "playerRank": 27,
+          "kills": 162,
+          "deaths": 181,
+          "kdRatio": 0.8950276243093923
+        },
+        {
+          "rank": 3,
           "username": "Monkey",
           "minesPlaced": 20585,
           "playerRank": 27,
           "kills": 25,
           "deaths": 56,
           "kdRatio": 0.44642857142857145
-        },
-        {
-          "rank": 3,
-          "username": "Angel",
-          "minesPlaced": 19593,
-          "playerRank": 27,
-          "kills": 162,
-          "deaths": 168,
-          "kdRatio": 0.9642857142857143
         },
         {
           "rank": 4,
@@ -354,11 +354,11 @@
         {
           "rank": 9,
           "username": "MateusA7X",
-          "minesPlaced": 258,
+          "minesPlaced": 354,
           "playerRank": 27,
-          "kills": 4,
-          "deaths": 30,
-          "kdRatio": 0.13333333333333333
+          "kills": 10,
+          "deaths": 40,
+          "kdRatio": 0.25
         },
         {
           "rank": 10,
