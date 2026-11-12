@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T23:01:34.244973+00:00",
+  "updatedAt": "2026-11-12T00:01:34.800881+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -8,7 +8,7 @@
         {
           "rank": 1,
           "username": "Luna",
-          "minesPlaced": 125869,
+          "minesPlaced": 129092,
           "playerRank": 31,
           "kills": 106,
           "deaths": 94,
@@ -291,7 +291,7 @@
         {
           "rank": 3,
           "username": "Luna",
-          "minesPlaced": 5836,
+          "minesPlaced": 9059,
           "playerRank": 31,
           "kills": 106,
           "deaths": 94,
