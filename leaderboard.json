@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T10:07:34.837814+00:00",
+  "updatedAt": "2026-11-12T11:08:34.355704+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -8,11 +8,11 @@
         {
           "rank": 1,
           "username": "RebarFw",
-          "minesPlaced": 130674,
+          "minesPlaced": 137966,
           "playerRank": 31,
-          "kills": 106,
-          "deaths": 95,
-          "kdRatio": 1.1157894736842104
+          "kills": 118,
+          "deaths": 97,
+          "kdRatio": 1.2164948453608246
         },
         {
           "rank": 2,
@@ -52,21 +52,21 @@
         },
         {
           "rank": 6,
+          "username": "Monkey",
+          "minesPlaced": 33554,
+          "playerRank": 27,
+          "kills": 20,
+          "deaths": 50,
+          "kdRatio": 0.4
+        },
+        {
+          "rank": 7,
           "username": "Devil",
           "minesPlaced": 31576,
           "playerRank": 27,
           "kills": 33,
           "deaths": 86,
           "kdRatio": 0.38372093023255816
-        },
-        {
-          "rank": 7,
-          "username": "Monkey",
-          "minesPlaced": 30645,
-          "playerRank": 27,
-          "kills": 20,
-          "deaths": 50,
-          "kdRatio": 0.4
         },
         {
           "rank": 8,
@@ -151,6 +151,15 @@
         },
         {
           "rank": 17,
+          "username": "Thuggin",
+          "minesPlaced": 5751,
+          "playerRank": 27,
+          "kills": 2,
+          "deaths": 33,
+          "kdRatio": 0.06060606060606061
+        },
+        {
+          "rank": 18,
           "username": "aaa",
           "minesPlaced": 5214,
           "playerRank": 27,
@@ -159,22 +168,13 @@
           "kdRatio": 0.9166666666666666
         },
         {
-          "rank": 18,
+          "rank": 19,
           "username": "marble",
           "minesPlaced": 3886,
           "playerRank": 27,
           "kills": 4,
           "deaths": 6,
           "kdRatio": 0.6666666666666666
-        },
-        {
-          "rank": 19,
-          "username": "Thuggin",
-          "minesPlaced": 3320,
-          "playerRank": 27,
-          "kills": 0,
-          "deaths": 18,
-          "kdRatio": 0.0
         },
         {
           "rank": 20,
@@ -273,16 +273,16 @@
         {
           "rank": 1,
           "username": "RebarFw",
-          "minesPlaced": 10641,
+          "minesPlaced": 17933,
           "playerRank": 31,
-          "kills": 106,
-          "deaths": 95,
-          "kdRatio": 1.1157894736842104
+          "kills": 118,
+          "deaths": 97,
+          "kdRatio": 1.2164948453608246
         },
         {
           "rank": 2,
           "username": "Monkey",
-          "minesPlaced": 10524,
+          "minesPlaced": 13433,
           "playerRank": 27,
           "kills": 20,
           "deaths": 50,
@@ -308,6 +308,15 @@
         },
         {
           "rank": 5,
+          "username": "Thuggin",
+          "minesPlaced": 3532,
+          "playerRank": 27,
+          "kills": 2,
+          "deaths": 33,
+          "kdRatio": 0.06060606060606061
+        },
+        {
+          "rank": 6,
           "username": "ddd",
           "minesPlaced": 2887,
           "playerRank": 27,
@@ -316,22 +325,13 @@
           "kdRatio": 1.5
         },
         {
-          "rank": 6,
+          "rank": 7,
           "username": "Daddy",
           "minesPlaced": 1424,
           "playerRank": 27,
           "kills": 3,
           "deaths": 7,
           "kdRatio": 0.42857142857142855
-        },
-        {
-          "rank": 7,
-          "username": "Thuggin",
-          "minesPlaced": 1101,
-          "playerRank": 27,
-          "kills": 0,
-          "deaths": 18,
-          "kdRatio": 0.0
         },
         {
           "rank": 8,
