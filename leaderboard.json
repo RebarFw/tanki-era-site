@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13T02:15:34.289006+00:00",
+  "updatedAt": "2026-11-13T03:15:34.656445+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -8,7 +8,7 @@
         {
           "rank": 1,
           "username": "RebarFw",
-          "minesPlaced": 165042,
+          "minesPlaced": 165334,
           "playerRank": 31,
           "kills": 135,
           "deaths": 107,
@@ -282,7 +282,7 @@
         {
           "rank": 1,
           "username": "RebarFw",
-          "minesPlaced": 45009,
+          "minesPlaced": 45301,
           "playerRank": 31,
           "kills": 135,
           "deaths": 107,
