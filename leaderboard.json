@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-14T10:30:34.737014+00:00",
+  "updatedAt": "2026-11-14T11:31:34.213864+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -17,11 +17,11 @@
         {
           "rank": 2,
           "username": "Angel",
-          "minesPlaced": 91553,
+          "minesPlaced": 91562,
           "playerRank": 27,
           "kills": 162,
-          "deaths": 182,
-          "kdRatio": 0.8901098901098901
+          "deaths": 183,
+          "kdRatio": 0.8852459016393442
         },
         {
           "rank": 3,
@@ -62,11 +62,11 @@
         {
           "rank": 7,
           "username": "Owner",
-          "minesPlaced": 31978,
+          "minesPlaced": 32704,
           "playerRank": 27,
           "kills": 41,
-          "deaths": 48,
-          "kdRatio": 0.8541666666666666
+          "deaths": 49,
+          "kdRatio": 0.8367346938775511
         },
         {
           "rank": 8,
@@ -291,11 +291,11 @@
         {
           "rank": 2,
           "username": "Angel",
-          "minesPlaced": 25558,
+          "minesPlaced": 25567,
           "playerRank": 27,
           "kills": 162,
-          "deaths": 182,
-          "kdRatio": 0.8901098901098901
+          "deaths": 183,
+          "kdRatio": 0.8852459016393442
         },
         {
           "rank": 3,
@@ -309,11 +309,11 @@
         {
           "rank": 4,
           "username": "Owner",
-          "minesPlaced": 12952,
+          "minesPlaced": 13678,
           "playerRank": 27,
           "kills": 41,
-          "deaths": 48,
-          "kdRatio": 0.8541666666666666
+          "deaths": 49,
+          "kdRatio": 0.8367346938775511
         },
         {
           "rank": 5,
