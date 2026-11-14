@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13T23:25:34.258399+00:00",
+  "updatedAt": "2026-11-14T00:25:34.731780+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -8,11 +8,11 @@
         {
           "rank": 1,
           "username": "RebarFw",
-          "minesPlaced": 167408,
+          "minesPlaced": 181470,
           "playerRank": 31,
-          "kills": 135,
-          "deaths": 107,
-          "kdRatio": 1.2616822429906542
+          "kills": 142,
+          "deaths": 109,
+          "kdRatio": 1.3027522935779816
         },
         {
           "rank": 2,
@@ -35,11 +35,11 @@
         {
           "rank": 4,
           "username": "Sexy",
-          "minesPlaced": 49406,
+          "minesPlaced": 59436,
           "playerRank": 48,
           "kills": 70,
-          "deaths": 83,
-          "kdRatio": 0.8433734939759037
+          "deaths": 91,
+          "kdRatio": 0.7692307692307693
         },
         {
           "rank": 5,
@@ -282,11 +282,11 @@
         {
           "rank": 1,
           "username": "RebarFw",
-          "minesPlaced": 47375,
+          "minesPlaced": 61437,
           "playerRank": 31,
-          "kills": 135,
-          "deaths": 107,
-          "kdRatio": 1.2616822429906542
+          "kills": 142,
+          "deaths": 109,
+          "kdRatio": 1.3027522935779816
         },
         {
           "rank": 2,
@@ -317,6 +317,15 @@
         },
         {
           "rank": 5,
+          "username": "Sexy",
+          "minesPlaced": 10058,
+          "playerRank": 48,
+          "kills": 70,
+          "deaths": 91,
+          "kdRatio": 0.7692307692307693
+        },
+        {
+          "rank": 6,
           "username": "Thuggin",
           "minesPlaced": 9428,
           "playerRank": 27,
@@ -325,7 +334,7 @@
           "kdRatio": 0.06382978723404255
         },
         {
-          "rank": 6,
+          "rank": 7,
           "username": "ddd",
           "minesPlaced": 8584,
           "playerRank": 27,
@@ -334,7 +343,7 @@
           "kdRatio": 1.1842105263157894
         },
         {
-          "rank": 7,
+          "rank": 8,
           "username": "999",
           "minesPlaced": 3830,
           "playerRank": 27,
@@ -343,7 +352,7 @@
           "kdRatio": 0.25806451612903225
         },
         {
-          "rank": 8,
+          "rank": 9,
           "username": "Daddy",
           "minesPlaced": 1424,
           "playerRank": 27,
@@ -352,7 +361,7 @@
           "kdRatio": 0.42857142857142855
         },
         {
-          "rank": 9,
+          "rank": 10,
           "username": "Nova",
           "minesPlaced": 968,
           "playerRank": 27,
@@ -361,7 +370,7 @@
           "kdRatio": 2.3636363636363638
         },
         {
-          "rank": 10,
+          "rank": 11,
           "username": "MateusA7X",
           "minesPlaced": 354,
           "playerRank": 27,
@@ -370,7 +379,7 @@
           "kdRatio": 0.25
         },
         {
-          "rank": 11,
+          "rank": 12,
           "username": "LoveSick",
           "minesPlaced": 247,
           "playerRank": 31,
@@ -379,7 +388,7 @@
           "kdRatio": 0.7083333333333334
         },
         {
-          "rank": 12,
+          "rank": 13,
           "username": "Foxic",
           "minesPlaced": 102,
           "playerRank": 27,
@@ -388,22 +397,13 @@
           "kdRatio": 0.10344827586206896
         },
         {
-          "rank": 13,
+          "rank": 14,
           "username": "Athena",
           "minesPlaced": 55,
           "playerRank": 27,
           "kills": 0,
           "deaths": 4,
           "kdRatio": 0.0
-        },
-        {
-          "rank": 14,
-          "username": "Sexy",
-          "minesPlaced": 28,
-          "playerRank": 48,
-          "kills": 70,
-          "deaths": 83,
-          "kdRatio": 0.8433734939759037
         },
         {
           "rank": 15,
