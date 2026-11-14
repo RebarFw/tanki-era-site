@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-14T18:34:34.427769+00:00",
+  "updatedAt": "2026-11-14T19:34:34.911755+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -89,7 +89,7 @@
         {
           "rank": 10,
           "username": "ddd",
-          "minesPlaced": 24185,
+          "minesPlaced": 24426,
           "playerRank": 27,
           "kills": 46,
           "deaths": 39,
@@ -134,11 +134,11 @@
         {
           "rank": 15,
           "username": "Y.9",
-          "minesPlaced": 8225,
+          "minesPlaced": 8493,
           "playerRank": 27,
           "kills": 4,
-          "deaths": 14,
-          "kdRatio": 0.2857142857142857
+          "deaths": 15,
+          "kdRatio": 0.26666666666666666
         },
         {
           "rank": 16,
@@ -345,7 +345,7 @@
         {
           "rank": 5,
           "username": "ddd",
-          "minesPlaced": 10549,
+          "minesPlaced": 10790,
           "playerRank": 27,
           "kills": 46,
           "deaths": 39,
@@ -381,11 +381,11 @@
         {
           "rank": 9,
           "username": "Y.9",
-          "minesPlaced": 8225,
+          "minesPlaced": 8493,
           "playerRank": 27,
           "kills": 4,
-          "deaths": 14,
-          "kdRatio": 0.2857142857142857
+          "deaths": 15,
+          "kdRatio": 0.26666666666666666
         },
         {
           "rank": 10,
