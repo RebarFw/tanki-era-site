@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-14T11:31:34.213864+00:00",
+  "updatedAt": "2026-11-14T12:31:34.724984+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -17,11 +17,11 @@
         {
           "rank": 2,
           "username": "Angel",
-          "minesPlaced": 91562,
+          "minesPlaced": 98208,
           "playerRank": 27,
           "kills": 162,
-          "deaths": 183,
-          "kdRatio": 0.8852459016393442
+          "deaths": 184,
+          "kdRatio": 0.8804347826086957
         },
         {
           "rank": 3,
@@ -52,21 +52,21 @@
         },
         {
           "rank": 6,
+          "username": "Owner",
+          "minesPlaced": 39029,
+          "playerRank": 27,
+          "kills": 41,
+          "deaths": 49,
+          "kdRatio": 0.8367346938775511
+        },
+        {
+          "rank": 7,
           "username": "Die",
           "minesPlaced": 37004,
           "playerRank": 27,
           "kills": 112,
           "deaths": 101,
           "kdRatio": 1.108910891089109
-        },
-        {
-          "rank": 7,
-          "username": "Owner",
-          "minesPlaced": 32704,
-          "playerRank": 27,
-          "kills": 41,
-          "deaths": 49,
-          "kdRatio": 0.8367346938775511
         },
         {
           "rank": 8,
@@ -89,7 +89,7 @@
         {
           "rank": 10,
           "username": "ddd",
-          "minesPlaced": 22220,
+          "minesPlaced": 22669,
           "playerRank": 27,
           "kills": 45,
           "deaths": 38,
@@ -291,11 +291,11 @@
         {
           "rank": 2,
           "username": "Angel",
-          "minesPlaced": 25567,
+          "minesPlaced": 32213,
           "playerRank": 27,
           "kills": 162,
-          "deaths": 183,
-          "kdRatio": 0.8852459016393442
+          "deaths": 184,
+          "kdRatio": 0.8804347826086957
         },
         {
           "rank": 3,
@@ -309,7 +309,7 @@
         {
           "rank": 4,
           "username": "Owner",
-          "minesPlaced": 13678,
+          "minesPlaced": 20003,
           "playerRank": 27,
           "kills": 41,
           "deaths": 49,
@@ -336,7 +336,7 @@
         {
           "rank": 7,
           "username": "ddd",
-          "minesPlaced": 8584,
+          "minesPlaced": 9033,
           "playerRank": 27,
           "kills": 45,
           "deaths": 38,
