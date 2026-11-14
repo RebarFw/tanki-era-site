@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-14T15:32:35.070518+00:00",
+  "updatedAt": "2026-11-14T16:33:34.540138+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -133,21 +133,21 @@
         },
         {
           "rank": 15,
+          "username": "Y.9",
+          "minesPlaced": 8191,
+          "playerRank": 27,
+          "kills": 4,
+          "deaths": 14,
+          "kdRatio": 0.2857142857142857
+        },
+        {
+          "rank": 16,
           "username": "After",
           "minesPlaced": 8117,
           "playerRank": 27,
           "kills": 10,
           "deaths": 15,
           "kdRatio": 0.6666666666666666
-        },
-        {
-          "rank": 16,
-          "username": "Y.9",
-          "minesPlaced": 7814,
-          "playerRank": 27,
-          "kills": 4,
-          "deaths": 14,
-          "kdRatio": 0.2857142857142857
         },
         {
           "rank": 17,
@@ -372,7 +372,7 @@
         {
           "rank": 9,
           "username": "Y.9",
-          "minesPlaced": 7814,
+          "minesPlaced": 8191,
           "playerRank": 27,
           "kills": 4,
           "deaths": 14,
