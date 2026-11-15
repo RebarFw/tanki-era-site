@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-15T16:45:34.177979+00:00",
+  "updatedAt": "2026-11-15T17:45:34.647664+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -17,7 +17,7 @@
         {
           "rank": 2,
           "username": "Angel",
-          "minesPlaced": 100365,
+          "minesPlaced": 100792,
           "playerRank": 27,
           "kills": 162,
           "deaths": 184,
@@ -327,7 +327,7 @@
         {
           "rank": 2,
           "username": "Angel",
-          "minesPlaced": 34370,
+          "minesPlaced": 34797,
           "playerRank": 27,
           "kills": 162,
           "deaths": 184,
