@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16T06:51:34.977664+00:00",
+  "updatedAt": "2026-11-16T07:52:34.459409+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -151,21 +151,21 @@
         },
         {
           "rank": 17,
+          "username": "After",
+          "minesPlaced": 8943,
+          "playerRank": 27,
+          "kills": 10,
+          "deaths": 15,
+          "kdRatio": 0.6666666666666666
+        },
+        {
+          "rank": 18,
           "username": "Y.9",
           "minesPlaced": 8493,
           "playerRank": 27,
           "kills": 4,
           "deaths": 15,
           "kdRatio": 0.26666666666666666
-        },
-        {
-          "rank": 18,
-          "username": "After",
-          "minesPlaced": 8117,
-          "playerRank": 27,
-          "kills": 10,
-          "deaths": 15,
-          "kdRatio": 0.6666666666666666
         },
         {
           "rank": 19,
@@ -332,7 +332,17 @@
       ]
     },
     "weekly": {
-      "entries": [],
+      "entries": [
+        {
+          "rank": 1,
+          "username": "After",
+          "minesPlaced": 826,
+          "playerRank": 27,
+          "kills": 10,
+          "deaths": 15,
+          "kdRatio": 0.6666666666666666
+        }
+      ],
       "weekStart": "2026-11-16",
       "weekEnds": "2026-11-22",
       "resetsAt": 1795392000000
