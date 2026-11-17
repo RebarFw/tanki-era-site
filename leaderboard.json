@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T07:03:34.506559+00:00",
+  "updatedAt": "2026-11-17T08:03:34.912833+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -71,11 +71,11 @@
         {
           "rank": 8,
           "username": "Monkey",
-          "minesPlaced": 41247,
+          "minesPlaced": 43270,
           "playerRank": 27,
           "kills": 25,
-          "deaths": 57,
-          "kdRatio": 0.43859649122807015
+          "deaths": 60,
+          "kdRatio": 0.4166666666666667
         },
         {
           "rank": 9,
@@ -362,6 +362,15 @@
         },
         {
           "rank": 4,
+          "username": "Monkey",
+          "minesPlaced": 2023,
+          "playerRank": 27,
+          "kills": 25,
+          "deaths": 60,
+          "kdRatio": 0.4166666666666667
+        },
+        {
+          "rank": 5,
           "username": "Angel",
           "minesPlaced": 1651,
           "playerRank": 27,
@@ -370,7 +379,7 @@
           "kdRatio": 0.8617021276595744
         },
         {
-          "rank": 5,
+          "rank": 6,
           "username": "After",
           "minesPlaced": 826,
           "playerRank": 27,
@@ -379,7 +388,7 @@
           "kdRatio": 0.6666666666666666
         },
         {
-          "rank": 6,
+          "rank": 7,
           "username": "Devil",
           "minesPlaced": 111,
           "playerRank": 27,
