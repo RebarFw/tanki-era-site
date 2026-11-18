@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T11:16:34.669548+00:00",
+  "updatedAt": "2026-11-18T12:17:34.143922+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -53,7 +53,7 @@
         {
           "rank": 6,
           "username": "ddd",
-          "minesPlaced": 58880,
+          "minesPlaced": 59073,
           "playerRank": 27,
           "kills": 76,
           "deaths": 70,
@@ -345,7 +345,7 @@
         {
           "rank": 1,
           "username": "ddd",
-          "minesPlaced": 19972,
+          "minesPlaced": 20165,
           "playerRank": 27,
           "kills": 76,
           "deaths": 70,
