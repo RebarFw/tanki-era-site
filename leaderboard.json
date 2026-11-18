@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T13:17:34.666245+00:00",
+  "updatedAt": "2026-11-18T14:18:34.291720+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -38,8 +38,8 @@
           "minesPlaced": 75274,
           "playerRank": 27,
           "kills": 72,
-          "deaths": 92,
-          "kdRatio": 0.782608695652174
+          "deaths": 93,
+          "kdRatio": 0.7741935483870968
         },
         {
           "rank": 5,
@@ -188,7 +188,7 @@
         {
           "rank": 21,
           "username": "Love",
-          "minesPlaced": 6270,
+          "minesPlaced": 6438,
           "playerRank": 27,
           "kills": 4,
           "deaths": 4,
@@ -375,8 +375,8 @@
           "minesPlaced": 10074,
           "playerRank": 27,
           "kills": 72,
-          "deaths": 92,
-          "kdRatio": 0.782608695652174
+          "deaths": 93,
+          "kdRatio": 0.7741935483870968
         },
         {
           "rank": 5,
@@ -390,7 +390,7 @@
         {
           "rank": 6,
           "username": "Love",
-          "minesPlaced": 6270,
+          "minesPlaced": 6438,
           "playerRank": 27,
           "kills": 4,
           "deaths": 4,
