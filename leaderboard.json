@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T09:39:34.519032+00:00",
+  "updatedAt": "2026-11-20T10:39:35.015493+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -26,7 +26,7 @@
         {
           "rank": 3,
           "username": "LoveSick",
-          "minesPlaced": 104763,
+          "minesPlaced": 104887,
           "playerRank": 31,
           "kills": 119,
           "deaths": 162,
@@ -337,6 +337,15 @@
           "kills": 0,
           "deaths": 2,
           "kdRatio": 0.0
+        },
+        {
+          "rank": 38,
+          "username": "IsraelGK-67.72",
+          "minesPlaced": 1,
+          "playerRank": 27,
+          "kills": 0,
+          "deaths": 0,
+          "kdRatio": 0.0
         }
       ]
     },
@@ -381,7 +390,7 @@
         {
           "rank": 5,
           "username": "LoveSick",
-          "minesPlaced": 10150,
+          "minesPlaced": 10274,
           "playerRank": 31,
           "kills": 119,
           "deaths": 162,
@@ -422,6 +431,15 @@
           "kills": 48,
           "deaths": 125,
           "kdRatio": 0.384
+        },
+        {
+          "rank": 10,
+          "username": "IsraelGK-67.72",
+          "minesPlaced": 1,
+          "playerRank": 27,
+          "kills": 0,
+          "deaths": 0,
+          "kdRatio": 0.0
         }
       ],
       "weekStart": "2026-11-16",
