@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T05:37:34.471509+00:00",
+  "updatedAt": "2026-11-20T06:37:34.950616+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -98,7 +98,7 @@
         {
           "rank": 11,
           "username": "Love",
-          "minesPlaced": 20891,
+          "minesPlaced": 21045,
           "playerRank": 27,
           "kills": 12,
           "deaths": 21,
@@ -363,7 +363,7 @@
         {
           "rank": 3,
           "username": "Love",
-          "minesPlaced": 20891,
+          "minesPlaced": 21045,
           "playerRank": 27,
           "kills": 12,
           "deaths": 21,
