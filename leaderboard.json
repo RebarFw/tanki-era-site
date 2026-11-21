@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T15:54:34.161417+00:00",
+  "updatedAt": "2026-11-21T16:54:34.677175+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -88,21 +88,21 @@
         },
         {
           "rank": 10,
+          "username": "Love",
+          "minesPlaced": 29021,
+          "playerRank": 27,
+          "kills": 13,
+          "deaths": 23,
+          "kdRatio": 0.5652173913043478
+        },
+        {
+          "rank": 11,
           "username": "Astra",
           "minesPlaced": 28576,
           "playerRank": 31,
           "kills": 39,
           "deaths": 86,
           "kdRatio": 0.45348837209302323
-        },
-        {
-          "rank": 11,
-          "username": "Love",
-          "minesPlaced": 24949,
-          "playerRank": 27,
-          "kills": 12,
-          "deaths": 21,
-          "kdRatio": 0.5714285714285714
         },
         {
           "rank": 12,
@@ -331,20 +331,20 @@
         },
         {
           "rank": 37,
+          "username": "IsraelGK-67.72",
+          "minesPlaced": 3,
+          "playerRank": 27,
+          "kills": 0,
+          "deaths": 0,
+          "kdRatio": 0.0
+        },
+        {
+          "rank": 38,
           "username": "123",
           "minesPlaced": 1,
           "playerRank": 27,
           "kills": 0,
           "deaths": 2,
-          "kdRatio": 0.0
-        },
-        {
-          "rank": 38,
-          "username": "IsraelGK-67.72",
-          "minesPlaced": 1,
-          "playerRank": 27,
-          "kills": 0,
-          "deaths": 0,
           "kdRatio": 0.0
         }
       ]
@@ -362,21 +362,21 @@
         },
         {
           "rank": 2,
+          "username": "Love",
+          "minesPlaced": 29021,
+          "playerRank": 27,
+          "kills": 13,
+          "deaths": 23,
+          "kdRatio": 0.5652173913043478
+        },
+        {
+          "rank": 3,
           "username": "ddd",
           "minesPlaced": 27842,
           "playerRank": 27,
           "kills": 97,
           "deaths": 74,
           "kdRatio": 1.3108108108108107
-        },
-        {
-          "rank": 3,
-          "username": "Love",
-          "minesPlaced": 24949,
-          "playerRank": 27,
-          "kills": 12,
-          "deaths": 21,
-          "kdRatio": 0.5714285714285714
         },
         {
           "rank": 4,
@@ -453,7 +453,7 @@
         {
           "rank": 12,
           "username": "IsraelGK-67.72",
-          "minesPlaced": 1,
+          "minesPlaced": 3,
           "playerRank": 27,
           "kills": 0,
           "deaths": 0,
