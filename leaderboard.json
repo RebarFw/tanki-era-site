@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T00:46:34.902276+00:00",
+  "updatedAt": "2026-11-21T01:47:34.395214+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -224,7 +224,7 @@
         {
           "rank": 25,
           "username": "marble",
-          "minesPlaced": 3886,
+          "minesPlaced": 4191,
           "playerRank": 27,
           "kills": 4,
           "deaths": 6,
@@ -425,6 +425,15 @@
         },
         {
           "rank": 9,
+          "username": "marble",
+          "minesPlaced": 305,
+          "playerRank": 27,
+          "kills": 4,
+          "deaths": 6,
+          "kdRatio": 0.6666666666666666
+        },
+        {
+          "rank": 10,
           "username": "Devil",
           "minesPlaced": 111,
           "playerRank": 27,
@@ -433,7 +442,7 @@
           "kdRatio": 0.384
         },
         {
-          "rank": 10,
+          "rank": 11,
           "username": "IsraelGK-67.72",
           "minesPlaced": 1,
           "playerRank": 27,
