@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T17:55:34.135763+00:00",
+  "updatedAt": "2026-11-21T18:55:34.599690+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -242,7 +242,7 @@
         {
           "rank": 27,
           "username": "Lex",
-          "minesPlaced": 1357,
+          "minesPlaced": 1735,
           "playerRank": 27,
           "kills": 2,
           "deaths": 14,
@@ -426,7 +426,7 @@
         {
           "rank": 9,
           "username": "Lex",
-          "minesPlaced": 1302,
+          "minesPlaced": 1680,
           "playerRank": 27,
           "kills": 2,
           "deaths": 14,
