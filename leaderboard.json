@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T13:53:34.205980+00:00",
+  "updatedAt": "2026-11-21T14:53:34.691204+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -143,7 +143,7 @@
         {
           "rank": 16,
           "username": "Lukas",
-          "minesPlaced": 10768,
+          "minesPlaced": 10990,
           "playerRank": 27,
           "kills": 17,
           "deaths": 24,
@@ -434,6 +434,15 @@
         },
         {
           "rank": 10,
+          "username": "Lukas",
+          "minesPlaced": 222,
+          "playerRank": 27,
+          "kills": 17,
+          "deaths": 24,
+          "kdRatio": 0.7083333333333334
+        },
+        {
+          "rank": 11,
           "username": "Devil",
           "minesPlaced": 111,
           "playerRank": 27,
@@ -442,7 +451,7 @@
           "kdRatio": 0.384
         },
         {
-          "rank": 11,
+          "rank": 12,
           "username": "IsraelGK-67.72",
           "minesPlaced": 1,
           "playerRank": 27,
