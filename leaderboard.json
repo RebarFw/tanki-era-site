@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T13:03:34.947347+00:00",
+  "updatedAt": "2026-11-22T14:04:34.430925+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -17,11 +17,11 @@
         {
           "rank": 2,
           "username": "Angel",
-          "minesPlaced": 112423,
+          "minesPlaced": 113131,
           "playerRank": 27,
-          "kills": 165,
-          "deaths": 215,
-          "kdRatio": 0.7674418604651163
+          "kills": 166,
+          "deaths": 218,
+          "kdRatio": 0.7614678899082569
         },
         {
           "rank": 3,
@@ -44,11 +44,11 @@
         {
           "rank": 5,
           "username": "Love",
-          "minesPlaced": 80230,
+          "minesPlaced": 88053,
           "playerRank": 27,
-          "kills": 15,
-          "deaths": 27,
-          "kdRatio": 0.5555555555555556
+          "kills": 17,
+          "deaths": 29,
+          "kdRatio": 0.5862068965517241
         },
         {
           "rank": 6,
@@ -89,11 +89,11 @@
         {
           "rank": 10,
           "username": "Die",
-          "minesPlaced": 40201,
+          "minesPlaced": 40829,
           "playerRank": 27,
-          "kills": 124,
-          "deaths": 102,
-          "kdRatio": 1.2156862745098038
+          "kills": 126,
+          "deaths": 104,
+          "kdRatio": 1.2115384615384615
         },
         {
           "rank": 11,
@@ -106,21 +106,21 @@
         },
         {
           "rank": 12,
+          "username": "Lukas",
+          "minesPlaced": 20377,
+          "playerRank": 27,
+          "kills": 24,
+          "deaths": 26,
+          "kdRatio": 0.9230769230769231
+        },
+        {
+          "rank": 13,
           "username": "Tibo",
           "minesPlaced": 16646,
           "playerRank": 31,
           "kills": 1,
           "deaths": 17,
           "kdRatio": 0.058823529411764705
-        },
-        {
-          "rank": 13,
-          "username": "Lukas",
-          "minesPlaced": 14788,
-          "playerRank": 27,
-          "kills": 23,
-          "deaths": 24,
-          "kdRatio": 0.9583333333333334
         },
         {
           "rank": 14,
@@ -354,11 +354,11 @@
         {
           "rank": 1,
           "username": "Love",
-          "minesPlaced": 80230,
+          "minesPlaced": 88053,
           "playerRank": 27,
-          "kills": 15,
-          "deaths": 27,
-          "kdRatio": 0.5555555555555556
+          "kills": 17,
+          "deaths": 29,
+          "kdRatio": 0.5862068965517241
         },
         {
           "rank": 2,
@@ -389,6 +389,15 @@
         },
         {
           "rank": 5,
+          "username": "Angel",
+          "minesPlaced": 12339,
+          "playerRank": 27,
+          "kills": 166,
+          "deaths": 218,
+          "kdRatio": 0.7614678899082569
+        },
+        {
+          "rank": 6,
           "username": "LoveSick",
           "minesPlaced": 11962,
           "playerRank": 31,
@@ -397,16 +406,16 @@
           "kdRatio": 0.7041420118343196
         },
         {
-          "rank": 6,
-          "username": "Angel",
-          "minesPlaced": 11631,
+          "rank": 7,
+          "username": "Lukas",
+          "minesPlaced": 9609,
           "playerRank": 27,
-          "kills": 165,
-          "deaths": 215,
-          "kdRatio": 0.7674418604651163
+          "kills": 24,
+          "deaths": 26,
+          "kdRatio": 0.9230769230769231
         },
         {
-          "rank": 7,
+          "rank": 8,
           "username": "Daddy",
           "minesPlaced": 8354,
           "playerRank": 27,
@@ -415,22 +424,13 @@
           "kdRatio": 0.3333333333333333
         },
         {
-          "rank": 8,
-          "username": "Lukas",
-          "minesPlaced": 4020,
-          "playerRank": 27,
-          "kills": 23,
-          "deaths": 24,
-          "kdRatio": 0.9583333333333334
-        },
-        {
           "rank": 9,
           "username": "Die",
-          "minesPlaced": 3197,
+          "minesPlaced": 3825,
           "playerRank": 27,
-          "kills": 124,
-          "deaths": 102,
-          "kdRatio": 1.2156862745098038
+          "kills": 126,
+          "deaths": 104,
+          "kdRatio": 1.2115384615384615
         },
         {
           "rank": 10,
