@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T01:58:34.826776+00:00",
+  "updatedAt": "2026-11-22T02:59:34.332253+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -61,6 +61,15 @@
         },
         {
           "rank": 7,
+          "username": "Love",
+          "minesPlaced": 56111,
+          "playerRank": 27,
+          "kills": 13,
+          "deaths": 23,
+          "kdRatio": 0.5652173913043478
+        },
+        {
+          "rank": 8,
           "username": "Monkey",
           "minesPlaced": 55613,
           "playerRank": 27,
@@ -69,7 +78,7 @@
           "kdRatio": 0.5333333333333333
         },
         {
-          "rank": 8,
+          "rank": 9,
           "username": "Devil",
           "minesPlaced": 53658,
           "playerRank": 27,
@@ -78,22 +87,13 @@
           "kdRatio": 0.384
         },
         {
-          "rank": 9,
+          "rank": 10,
           "username": "Die",
           "minesPlaced": 40201,
           "playerRank": 27,
           "kills": 124,
           "deaths": 102,
           "kdRatio": 1.2156862745098038
-        },
-        {
-          "rank": 10,
-          "username": "Love",
-          "minesPlaced": 38074,
-          "playerRank": 27,
-          "kills": 13,
-          "deaths": 23,
-          "kdRatio": 0.5652173913043478
         },
         {
           "rank": 11,
@@ -353,21 +353,21 @@
       "entries": [
         {
           "rank": 1,
+          "username": "Love",
+          "minesPlaced": 56111,
+          "playerRank": 27,
+          "kills": 13,
+          "deaths": 23,
+          "kdRatio": 0.5652173913043478
+        },
+        {
+          "rank": 2,
           "username": "Owner",
           "minesPlaced": 45204,
           "playerRank": 27,
           "kills": 83,
           "deaths": 119,
           "kdRatio": 0.6974789915966386
-        },
-        {
-          "rank": 2,
-          "username": "Love",
-          "minesPlaced": 38074,
-          "playerRank": 27,
-          "kills": 13,
-          "deaths": 23,
-          "kdRatio": 0.5652173913043478
         },
         {
           "rank": 3,
