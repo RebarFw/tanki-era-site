@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T11:02:34.978591+00:00",
+  "updatedAt": "2026-11-22T12:03:34.431940+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -8,11 +8,11 @@
         {
           "rank": 1,
           "username": "RebarFw",
-          "minesPlaced": 181470,
+          "minesPlaced": 182384,
           "playerRank": 31,
-          "kills": 142,
+          "kills": 146,
           "deaths": 109,
-          "kdRatio": 1.3027522935779816
+          "kdRatio": 1.3394495412844036
         },
         {
           "rank": 2,
@@ -35,11 +35,11 @@
         {
           "rank": 4,
           "username": "LoveSick",
-          "minesPlaced": 106463,
+          "minesPlaced": 106575,
           "playerRank": 31,
           "kills": 119,
-          "deaths": 162,
-          "kdRatio": 0.7345679012345679
+          "deaths": 169,
+          "kdRatio": 0.7041420118343196
         },
         {
           "rank": 5,
@@ -390,11 +390,11 @@
         {
           "rank": 5,
           "username": "LoveSick",
-          "minesPlaced": 11850,
+          "minesPlaced": 11962,
           "playerRank": 31,
           "kills": 119,
-          "deaths": 162,
-          "kdRatio": 0.7345679012345679
+          "deaths": 169,
+          "kdRatio": 0.7041420118343196
         },
         {
           "rank": 6,
@@ -443,6 +443,15 @@
         },
         {
           "rank": 11,
+          "username": "RebarFw",
+          "minesPlaced": 914,
+          "playerRank": 31,
+          "kills": 146,
+          "deaths": 109,
+          "kdRatio": 1.3394495412844036
+        },
+        {
+          "rank": 12,
           "username": "After",
           "minesPlaced": 826,
           "playerRank": 27,
@@ -451,7 +460,7 @@
           "kdRatio": 0.6666666666666666
         },
         {
-          "rank": 12,
+          "rank": 13,
           "username": "marble",
           "minesPlaced": 305,
           "playerRank": 27,
@@ -460,7 +469,7 @@
           "kdRatio": 0.6666666666666666
         },
         {
-          "rank": 13,
+          "rank": 14,
           "username": "Devil",
           "minesPlaced": 111,
           "playerRank": 27,
@@ -469,7 +478,7 @@
           "kdRatio": 0.384
         },
         {
-          "rank": 14,
+          "rank": 15,
           "username": "IsraelGK-67.72",
           "minesPlaced": 97,
           "playerRank": 27,
