@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T12:14:34.932969+00:00",
+  "updatedAt": "2026-11-23T13:15:34.459458+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -44,7 +44,7 @@
         {
           "rank": 5,
           "username": "Love",
-          "minesPlaced": 88053,
+          "minesPlaced": 90398,
           "playerRank": 27,
           "kills": 17,
           "deaths": 29,
@@ -389,6 +389,15 @@
         },
         {
           "rank": 3,
+          "username": "Love",
+          "minesPlaced": 2345,
+          "playerRank": 27,
+          "kills": 17,
+          "deaths": 29,
+          "kdRatio": 0.5862068965517241
+        },
+        {
+          "rank": 4,
           "username": "Emin2010",
           "minesPlaced": 2,
           "playerRank": 27,
