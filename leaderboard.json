@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T06:12:34.183393+00:00",
+  "updatedAt": "2026-11-23T07:12:34.612480+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -340,6 +340,15 @@
         },
         {
           "rank": 38,
+          "username": "Emin2010",
+          "minesPlaced": 2,
+          "playerRank": 27,
+          "kills": 0,
+          "deaths": 2,
+          "kdRatio": 0.0
+        },
+        {
+          "rank": 39,
           "username": "123",
           "minesPlaced": 1,
           "playerRank": 27,
@@ -348,7 +357,7 @@
           "kdRatio": 0.0
         },
         {
-          "rank": 39,
+          "rank": 40,
           "username": "Creative",
           "minesPlaced": 1,
           "playerRank": 27,
@@ -359,7 +368,17 @@
       ]
     },
     "weekly": {
-      "entries": [],
+      "entries": [
+        {
+          "rank": 1,
+          "username": "Emin2010",
+          "minesPlaced": 2,
+          "playerRank": 27,
+          "kills": 0,
+          "deaths": 2,
+          "kdRatio": 0.0
+        }
+      ],
       "weekStart": "2026-11-23",
       "weekEnds": "2026-11-29",
       "resetsAt": 1795996800000
