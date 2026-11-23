@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T23:08:34.802043+00:00",
+  "updatedAt": "2026-11-23T00:09:34.309852+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -359,155 +359,10 @@
       ]
     },
     "weekly": {
-      "entries": [
-        {
-          "rank": 1,
-          "username": "Love",
-          "minesPlaced": 88053,
-          "playerRank": 27,
-          "kills": 17,
-          "deaths": 29,
-          "kdRatio": 0.5862068965517241
-        },
-        {
-          "rank": 2,
-          "username": "Owner",
-          "minesPlaced": 45204,
-          "playerRank": 27,
-          "kills": 83,
-          "deaths": 119,
-          "kdRatio": 0.6974789915966386
-        },
-        {
-          "rank": 3,
-          "username": "ddd",
-          "minesPlaced": 32978,
-          "playerRank": 27,
-          "kills": 106,
-          "deaths": 80,
-          "kdRatio": 1.325
-        },
-        {
-          "rank": 4,
-          "username": "Lukas",
-          "minesPlaced": 15995,
-          "playerRank": 27,
-          "kills": 29,
-          "deaths": 37,
-          "kdRatio": 0.7837837837837838
-        },
-        {
-          "rank": 5,
-          "username": "Monkey",
-          "minesPlaced": 14366,
-          "playerRank": 27,
-          "kills": 40,
-          "deaths": 75,
-          "kdRatio": 0.5333333333333333
-        },
-        {
-          "rank": 6,
-          "username": "Angel",
-          "minesPlaced": 12339,
-          "playerRank": 27,
-          "kills": 166,
-          "deaths": 218,
-          "kdRatio": 0.7614678899082569
-        },
-        {
-          "rank": 7,
-          "username": "LoveSick",
-          "minesPlaced": 11962,
-          "playerRank": 31,
-          "kills": 119,
-          "deaths": 169,
-          "kdRatio": 0.7041420118343196
-        },
-        {
-          "rank": 8,
-          "username": "Daddy",
-          "minesPlaced": 8354,
-          "playerRank": 27,
-          "kills": 11,
-          "deaths": 33,
-          "kdRatio": 0.3333333333333333
-        },
-        {
-          "rank": 9,
-          "username": "Die",
-          "minesPlaced": 3825,
-          "playerRank": 27,
-          "kills": 126,
-          "deaths": 104,
-          "kdRatio": 1.2115384615384615
-        },
-        {
-          "rank": 10,
-          "username": "Lex",
-          "minesPlaced": 1680,
-          "playerRank": 27,
-          "kills": 2,
-          "deaths": 14,
-          "kdRatio": 0.14285714285714285
-        },
-        {
-          "rank": 11,
-          "username": "RebarFw",
-          "minesPlaced": 914,
-          "playerRank": 31,
-          "kills": 146,
-          "deaths": 109,
-          "kdRatio": 1.3394495412844036
-        },
-        {
-          "rank": 12,
-          "username": "marble",
-          "minesPlaced": 863,
-          "playerRank": 27,
-          "kills": 4,
-          "deaths": 6,
-          "kdRatio": 0.6666666666666666
-        },
-        {
-          "rank": 13,
-          "username": "After",
-          "minesPlaced": 826,
-          "playerRank": 27,
-          "kills": 10,
-          "deaths": 15,
-          "kdRatio": 0.6666666666666666
-        },
-        {
-          "rank": 14,
-          "username": "Devil",
-          "minesPlaced": 111,
-          "playerRank": 27,
-          "kills": 48,
-          "deaths": 125,
-          "kdRatio": 0.384
-        },
-        {
-          "rank": 15,
-          "username": "IsraelGK-67.72",
-          "minesPlaced": 97,
-          "playerRank": 27,
-          "kills": 0,
-          "deaths": 19,
-          "kdRatio": 0.0
-        },
-        {
-          "rank": 16,
-          "username": "Creative",
-          "minesPlaced": 1,
-          "playerRank": 27,
-          "kills": 1,
-          "deaths": 6,
-          "kdRatio": 0.16666666666666666
-        }
-      ],
-      "weekStart": "2026-11-16",
-      "weekEnds": "2026-11-22",
-      "resetsAt": 1795392000000
+      "entries": [],
+      "weekStart": "2026-11-23",
+      "weekEnds": "2026-11-29",
+      "resetsAt": 1795996800000
     }
   }
 }
