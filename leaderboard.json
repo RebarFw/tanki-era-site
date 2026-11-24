@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T16:28:34.348587+00:00",
+  "updatedAt": "2026-11-24T18:29:34.309040+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -8,11 +8,11 @@
         {
           "rank": 1,
           "username": "RebarFw",
-          "minesPlaced": 185696,
+          "minesPlaced": 201894,
           "playerRank": 31,
-          "kills": 149,
-          "deaths": 117,
-          "kdRatio": 1.2735042735042734
+          "kills": 166,
+          "deaths": 123,
+          "kdRatio": 1.3495934959349594
         },
         {
           "rank": 2,
@@ -35,11 +35,11 @@
         {
           "rank": 4,
           "username": "LoveSick",
-          "minesPlaced": 109052,
+          "minesPlaced": 109167,
           "playerRank": 31,
-          "kills": 126,
-          "deaths": 172,
-          "kdRatio": 0.7325581395348837
+          "kills": 128,
+          "deaths": 174,
+          "kdRatio": 0.735632183908046
         },
         {
           "rank": 5,
@@ -53,11 +53,11 @@
         {
           "rank": 6,
           "username": "ddd",
-          "minesPlaced": 71886,
+          "minesPlaced": 76832,
           "playerRank": 27,
-          "kills": 106,
-          "deaths": 80,
-          "kdRatio": 1.325
+          "kills": 111,
+          "deaths": 81,
+          "kdRatio": 1.3703703703703705
         },
         {
           "rank": 7,
@@ -89,29 +89,29 @@
         {
           "rank": 10,
           "username": "Die",
-          "minesPlaced": 40829,
+          "minesPlaced": 41169,
           "playerRank": 27,
           "kills": 126,
-          "deaths": 104,
-          "kdRatio": 1.2115384615384615
+          "deaths": 105,
+          "kdRatio": 1.2
         },
         {
           "rank": 11,
+          "username": "Lukas",
+          "minesPlaced": 39468,
+          "playerRank": 27,
+          "kills": 29,
+          "deaths": 55,
+          "kdRatio": 0.5272727272727272
+        },
+        {
+          "rank": 12,
           "username": "Astra",
           "minesPlaced": 28576,
           "playerRank": 31,
           "kills": 39,
           "deaths": 86,
           "kdRatio": 0.45348837209302323
-        },
-        {
-          "rank": 12,
-          "username": "Lukas",
-          "minesPlaced": 28506,
-          "playerRank": 27,
-          "kills": 29,
-          "deaths": 38,
-          "kdRatio": 0.7631578947368421
         },
         {
           "rank": 13,
@@ -380,6 +380,15 @@
       "entries": [
         {
           "rank": 1,
+          "username": "RebarFw",
+          "minesPlaced": 19511,
+          "playerRank": 31,
+          "kills": 166,
+          "deaths": 123,
+          "kdRatio": 1.3495934959349594
+        },
+        {
+          "rank": 2,
           "username": "Love",
           "minesPlaced": 13866,
           "playerRank": 27,
@@ -388,34 +397,43 @@
           "kdRatio": 0.6129032258064516
         },
         {
-          "rank": 2,
-          "username": "RebarFw",
-          "minesPlaced": 3312,
-          "playerRank": 31,
-          "kills": 149,
-          "deaths": 117,
-          "kdRatio": 1.2735042735042734
-        },
-        {
           "rank": 3,
-          "username": "LoveSick",
-          "minesPlaced": 2477,
-          "playerRank": 31,
-          "kills": 126,
-          "deaths": 172,
-          "kdRatio": 0.7325581395348837
+          "username": "Lukas",
+          "minesPlaced": 12705,
+          "playerRank": 27,
+          "kills": 29,
+          "deaths": 55,
+          "kdRatio": 0.5272727272727272
         },
         {
           "rank": 4,
-          "username": "Lukas",
-          "minesPlaced": 1743,
+          "username": "ddd",
+          "minesPlaced": 4946,
           "playerRank": 27,
-          "kills": 29,
-          "deaths": 38,
-          "kdRatio": 0.7631578947368421
+          "kills": 111,
+          "deaths": 81,
+          "kdRatio": 1.3703703703703705
         },
         {
           "rank": 5,
+          "username": "LoveSick",
+          "minesPlaced": 2592,
+          "playerRank": 31,
+          "kills": 128,
+          "deaths": 174,
+          "kdRatio": 0.735632183908046
+        },
+        {
+          "rank": 6,
+          "username": "Die",
+          "minesPlaced": 340,
+          "playerRank": 27,
+          "kills": 126,
+          "deaths": 105,
+          "kdRatio": 1.2
+        },
+        {
+          "rank": 7,
           "username": "Angel",
           "minesPlaced": 106,
           "playerRank": 27,
@@ -424,7 +442,7 @@
           "kdRatio": 0.7614678899082569
         },
         {
-          "rank": 6,
+          "rank": 8,
           "username": "Emin2010",
           "minesPlaced": 2,
           "playerRank": 27,
@@ -433,7 +451,7 @@
           "kdRatio": 0.0
         },
         {
-          "rank": 7,
+          "rank": 9,
           "username": "Nothing",
           "minesPlaced": 1,
           "playerRank": 27,
