@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T07:23:35.063344+00:00",
+  "updatedAt": "2026-11-24T08:24:34.928889+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -361,9 +361,9 @@
           "username": "Creative",
           "minesPlaced": 1,
           "playerRank": 27,
-          "kills": 1,
-          "deaths": 6,
-          "kdRatio": 0.16666666666666666
+          "kills": 6,
+          "deaths": 9,
+          "kdRatio": 0.6666666666666666
         },
         {
           "rank": 41,
