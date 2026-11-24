@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T19:29:34.787558+00:00",
+  "updatedAt": "2026-11-24T20:30:34.295772+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -61,6 +61,15 @@
         },
         {
           "rank": 7,
+          "username": "Devil",
+          "minesPlaced": 66610,
+          "playerRank": 27,
+          "kills": 48,
+          "deaths": 126,
+          "kdRatio": 0.38095238095238093
+        },
+        {
+          "rank": 8,
           "username": "Sexy",
           "minesPlaced": 65098,
           "playerRank": 48,
@@ -69,22 +78,13 @@
           "kdRatio": 0.8191489361702128
         },
         {
-          "rank": 8,
+          "rank": 9,
           "username": "Monkey",
           "minesPlaced": 55613,
           "playerRank": 27,
           "kills": 40,
           "deaths": 75,
           "kdRatio": 0.5333333333333333
-        },
-        {
-          "rank": 9,
-          "username": "Devil",
-          "minesPlaced": 53658,
-          "playerRank": 27,
-          "kills": 48,
-          "deaths": 125,
-          "kdRatio": 0.384
         },
         {
           "rank": 10,
@@ -407,6 +407,15 @@
         },
         {
           "rank": 4,
+          "username": "Devil",
+          "minesPlaced": 12952,
+          "playerRank": 27,
+          "kills": 48,
+          "deaths": 126,
+          "kdRatio": 0.38095238095238093
+        },
+        {
+          "rank": 5,
           "username": "ddd",
           "minesPlaced": 5857,
           "playerRank": 27,
@@ -415,7 +424,7 @@
           "kdRatio": 1.3614457831325302
         },
         {
-          "rank": 5,
+          "rank": 6,
           "username": "Nothing",
           "minesPlaced": 2996,
           "playerRank": 27,
@@ -424,7 +433,7 @@
           "kdRatio": 0.18181818181818182
         },
         {
-          "rank": 6,
+          "rank": 7,
           "username": "LoveSick",
           "minesPlaced": 2592,
           "playerRank": 31,
@@ -433,7 +442,7 @@
           "kdRatio": 0.735632183908046
         },
         {
-          "rank": 7,
+          "rank": 8,
           "username": "Die",
           "minesPlaced": 840,
           "playerRank": 27,
@@ -442,7 +451,7 @@
           "kdRatio": 1.1666666666666667
         },
         {
-          "rank": 8,
+          "rank": 9,
           "username": "Angel",
           "minesPlaced": 106,
           "playerRank": 27,
@@ -451,7 +460,7 @@
           "kdRatio": 0.7614678899082569
         },
         {
-          "rank": 9,
+          "rank": 10,
           "username": "Emin2010",
           "minesPlaced": 2,
           "playerRank": 27,
