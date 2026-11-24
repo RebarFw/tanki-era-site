@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T14:27:34.430568+00:00",
+  "updatedAt": "2026-11-24T15:27:34.877363+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -107,11 +107,11 @@
         {
           "rank": 12,
           "username": "Lukas",
-          "minesPlaced": 26763,
+          "minesPlaced": 28506,
           "playerRank": 27,
           "kills": 29,
-          "deaths": 37,
-          "kdRatio": 0.7837837837837838
+          "deaths": 38,
+          "kdRatio": 0.7631578947368421
         },
         {
           "rank": 13,
@@ -407,6 +407,15 @@
         },
         {
           "rank": 4,
+          "username": "Lukas",
+          "minesPlaced": 1743,
+          "playerRank": 27,
+          "kills": 29,
+          "deaths": 38,
+          "kdRatio": 0.7631578947368421
+        },
+        {
+          "rank": 5,
           "username": "Angel",
           "minesPlaced": 106,
           "playerRank": 27,
@@ -415,7 +424,7 @@
           "kdRatio": 0.7614678899082569
         },
         {
-          "rank": 5,
+          "rank": 6,
           "username": "Emin2010",
           "minesPlaced": 2,
           "playerRank": 27,
@@ -424,7 +433,7 @@
           "kdRatio": 0.0
         },
         {
-          "rank": 6,
+          "rank": 7,
           "username": "Nothing",
           "minesPlaced": 1,
           "playerRank": 27,
