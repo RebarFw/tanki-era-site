@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T22:31:34.219593+00:00",
+  "updatedAt": "2026-11-24T23:31:34.680966+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -62,11 +62,11 @@
         {
           "rank": 7,
           "username": "Devil",
-          "minesPlaced": 70231,
+          "minesPlaced": 73767,
           "playerRank": 27,
           "kills": 48,
-          "deaths": 126,
-          "kdRatio": 0.38095238095238093
+          "deaths": 127,
+          "kdRatio": 0.3779527559055118
         },
         {
           "rank": 8,
@@ -399,11 +399,11 @@
         {
           "rank": 3,
           "username": "Devil",
-          "minesPlaced": 16573,
+          "minesPlaced": 20109,
           "playerRank": 27,
           "kills": 48,
-          "deaths": 126,
-          "kdRatio": 0.38095238095238093
+          "deaths": 127,
+          "kdRatio": 0.3779527559055118
         },
         {
           "rank": 4,
