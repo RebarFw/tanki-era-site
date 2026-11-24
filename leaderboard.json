@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T18:29:34.309040+00:00",
+  "updatedAt": "2026-11-24T19:29:34.787558+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -8,11 +8,11 @@
         {
           "rank": 1,
           "username": "RebarFw",
-          "minesPlaced": 201894,
+          "minesPlaced": 213135,
           "playerRank": 31,
-          "kills": 166,
-          "deaths": 123,
-          "kdRatio": 1.3495934959349594
+          "kills": 182,
+          "deaths": 133,
+          "kdRatio": 1.368421052631579
         },
         {
           "rank": 2,
@@ -53,11 +53,11 @@
         {
           "rank": 6,
           "username": "ddd",
-          "minesPlaced": 76832,
+          "minesPlaced": 77743,
           "playerRank": 27,
-          "kills": 111,
-          "deaths": 81,
-          "kdRatio": 1.3703703703703705
+          "kills": 113,
+          "deaths": 83,
+          "kdRatio": 1.3614457831325302
         },
         {
           "rank": 7,
@@ -88,21 +88,21 @@
         },
         {
           "rank": 10,
-          "username": "Die",
-          "minesPlaced": 41169,
+          "username": "Lukas",
+          "minesPlaced": 50538,
           "playerRank": 27,
-          "kills": 126,
-          "deaths": 105,
-          "kdRatio": 1.2
+          "kills": 44,
+          "deaths": 69,
+          "kdRatio": 0.6376811594202898
         },
         {
           "rank": 11,
-          "username": "Lukas",
-          "minesPlaced": 39468,
+          "username": "Die",
+          "minesPlaced": 41669,
           "playerRank": 27,
-          "kills": 29,
-          "deaths": 55,
-          "kdRatio": 0.5272727272727272
+          "kills": 126,
+          "deaths": 108,
+          "kdRatio": 1.1666666666666667
         },
         {
           "rank": 12,
@@ -241,6 +241,15 @@
         },
         {
           "rank": 27,
+          "username": "Nothing",
+          "minesPlaced": 2996,
+          "playerRank": 27,
+          "kills": 2,
+          "deaths": 11,
+          "kdRatio": 0.18181818181818182
+        },
+        {
+          "rank": 28,
           "username": "Lex",
           "minesPlaced": 1735,
           "playerRank": 27,
@@ -249,7 +258,7 @@
           "kdRatio": 0.14285714285714285
         },
         {
-          "rank": 28,
+          "rank": 29,
           "username": "Satin",
           "minesPlaced": 1182,
           "playerRank": 27,
@@ -258,7 +267,7 @@
           "kdRatio": 0.0
         },
         {
-          "rank": 29,
+          "rank": 30,
           "username": "Nova",
           "minesPlaced": 968,
           "playerRank": 27,
@@ -267,7 +276,7 @@
           "kdRatio": 1.7333333333333334
         },
         {
-          "rank": 30,
+          "rank": 31,
           "username": "King",
           "minesPlaced": 419,
           "playerRank": 27,
@@ -276,7 +285,7 @@
           "kdRatio": 0.0
         },
         {
-          "rank": 31,
+          "rank": 32,
           "username": "MateusA7X",
           "minesPlaced": 354,
           "playerRank": 27,
@@ -285,7 +294,7 @@
           "kdRatio": 0.25
         },
         {
-          "rank": 32,
+          "rank": 33,
           "username": "Dude",
           "minesPlaced": 169,
           "playerRank": 27,
@@ -294,7 +303,7 @@
           "kdRatio": 0.14285714285714285
         },
         {
-          "rank": 33,
+          "rank": 34,
           "username": "Foxic",
           "minesPlaced": 102,
           "playerRank": 27,
@@ -303,7 +312,7 @@
           "kdRatio": 0.10344827586206896
         },
         {
-          "rank": 34,
+          "rank": 35,
           "username": "IsraelGK-67.72",
           "minesPlaced": 97,
           "playerRank": 27,
@@ -312,16 +321,16 @@
           "kdRatio": 0.0
         },
         {
-          "rank": 35,
+          "rank": 36,
           "username": "Athena",
           "minesPlaced": 88,
           "playerRank": 27,
           "kills": 0,
-          "deaths": 7,
+          "deaths": 11,
           "kdRatio": 0.0
         },
         {
-          "rank": 36,
+          "rank": 37,
           "username": "Claude",
           "minesPlaced": 84,
           "playerRank": 31,
@@ -330,7 +339,7 @@
           "kdRatio": 0.0
         },
         {
-          "rank": 37,
+          "rank": 38,
           "username": "test1",
           "minesPlaced": 5,
           "playerRank": 27,
@@ -339,7 +348,7 @@
           "kdRatio": 0.0
         },
         {
-          "rank": 38,
+          "rank": 39,
           "username": "Emin2010",
           "minesPlaced": 2,
           "playerRank": 27,
@@ -348,7 +357,7 @@
           "kdRatio": 0.0
         },
         {
-          "rank": 39,
+          "rank": 40,
           "username": "123",
           "minesPlaced": 1,
           "playerRank": 27,
@@ -357,22 +366,13 @@
           "kdRatio": 0.0
         },
         {
-          "rank": 40,
+          "rank": 41,
           "username": "Creative",
           "minesPlaced": 1,
           "playerRank": 27,
           "kills": 6,
           "deaths": 9,
           "kdRatio": 0.6666666666666666
-        },
-        {
-          "rank": 41,
-          "username": "Nothing",
-          "minesPlaced": 1,
-          "playerRank": 27,
-          "kills": 0,
-          "deaths": 3,
-          "kdRatio": 0.0
         }
       ]
     },
@@ -381,14 +381,23 @@
         {
           "rank": 1,
           "username": "RebarFw",
-          "minesPlaced": 19511,
+          "minesPlaced": 30751,
           "playerRank": 31,
-          "kills": 166,
-          "deaths": 123,
-          "kdRatio": 1.3495934959349594
+          "kills": 182,
+          "deaths": 133,
+          "kdRatio": 1.368421052631579
         },
         {
           "rank": 2,
+          "username": "Lukas",
+          "minesPlaced": 23775,
+          "playerRank": 27,
+          "kills": 44,
+          "deaths": 69,
+          "kdRatio": 0.6376811594202898
+        },
+        {
+          "rank": 3,
           "username": "Love",
           "minesPlaced": 13866,
           "playerRank": 27,
@@ -397,25 +406,25 @@
           "kdRatio": 0.6129032258064516
         },
         {
-          "rank": 3,
-          "username": "Lukas",
-          "minesPlaced": 12705,
-          "playerRank": 27,
-          "kills": 29,
-          "deaths": 55,
-          "kdRatio": 0.5272727272727272
-        },
-        {
           "rank": 4,
           "username": "ddd",
-          "minesPlaced": 4946,
+          "minesPlaced": 5857,
           "playerRank": 27,
-          "kills": 111,
-          "deaths": 81,
-          "kdRatio": 1.3703703703703705
+          "kills": 113,
+          "deaths": 83,
+          "kdRatio": 1.3614457831325302
         },
         {
           "rank": 5,
+          "username": "Nothing",
+          "minesPlaced": 2996,
+          "playerRank": 27,
+          "kills": 2,
+          "deaths": 11,
+          "kdRatio": 0.18181818181818182
+        },
+        {
+          "rank": 6,
           "username": "LoveSick",
           "minesPlaced": 2592,
           "playerRank": 31,
@@ -424,16 +433,16 @@
           "kdRatio": 0.735632183908046
         },
         {
-          "rank": 6,
+          "rank": 7,
           "username": "Die",
-          "minesPlaced": 340,
+          "minesPlaced": 840,
           "playerRank": 27,
           "kills": 126,
-          "deaths": 105,
-          "kdRatio": 1.2
+          "deaths": 108,
+          "kdRatio": 1.1666666666666667
         },
         {
-          "rank": 7,
+          "rank": 8,
           "username": "Angel",
           "minesPlaced": 106,
           "playerRank": 27,
@@ -442,21 +451,12 @@
           "kdRatio": 0.7614678899082569
         },
         {
-          "rank": 8,
+          "rank": 9,
           "username": "Emin2010",
           "minesPlaced": 2,
           "playerRank": 27,
           "kills": 0,
           "deaths": 2,
-          "kdRatio": 0.0
-        },
-        {
-          "rank": 9,
-          "username": "Nothing",
-          "minesPlaced": 1,
-          "playerRank": 27,
-          "kills": 0,
-          "deaths": 3,
           "kdRatio": 0.0
         }
       ],
