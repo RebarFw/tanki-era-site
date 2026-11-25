@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-25T17:40:34.382136+00:00",
+  "updatedAt": "2026-11-25T18:40:34.815955+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -61,21 +61,21 @@
         },
         {
           "rank": 7,
+          "username": "Lukas",
+          "minesPlaced": 77609,
+          "playerRank": 27,
+          "kills": 45,
+          "deaths": 70,
+          "kdRatio": 0.6428571428571429
+        },
+        {
+          "rank": 8,
           "username": "Devil",
           "minesPlaced": 73767,
           "playerRank": 27,
           "kills": 48,
           "deaths": 127,
           "kdRatio": 0.3779527559055118
-        },
-        {
-          "rank": 8,
-          "username": "Lukas",
-          "minesPlaced": 71829,
-          "playerRank": 27,
-          "kills": 45,
-          "deaths": 70,
-          "kdRatio": 0.6428571428571429
         },
         {
           "rank": 9,
@@ -380,21 +380,21 @@
       "entries": [
         {
           "rank": 1,
+          "username": "Lukas",
+          "minesPlaced": 50846,
+          "playerRank": 27,
+          "kills": 45,
+          "deaths": 70,
+          "kdRatio": 0.6428571428571429
+        },
+        {
+          "rank": 2,
           "username": "Love",
           "minesPlaced": 46781,
           "playerRank": 27,
           "kills": 21,
           "deaths": 34,
           "kdRatio": 0.6176470588235294
-        },
-        {
-          "rank": 2,
-          "username": "Lukas",
-          "minesPlaced": 45066,
-          "playerRank": 27,
-          "kills": 45,
-          "deaths": 70,
-          "kdRatio": 0.6428571428571429
         },
         {
           "rank": 3,
