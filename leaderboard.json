@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T14:50:34.643924+00:00",
+  "updatedAt": "2026-11-26T15:51:34.154673+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -53,7 +53,7 @@
         {
           "rank": 6,
           "username": "Lukas",
-          "minesPlaced": 79260,
+          "minesPlaced": 82191,
           "playerRank": 27,
           "kills": 45,
           "deaths": 70,
@@ -390,7 +390,7 @@
         {
           "rank": 2,
           "username": "Lukas",
-          "minesPlaced": 52497,
+          "minesPlaced": 55428,
           "playerRank": 27,
           "kills": 45,
           "deaths": 70,
