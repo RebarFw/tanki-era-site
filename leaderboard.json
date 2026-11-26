@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T20:53:34.624424+00:00",
+  "updatedAt": "2026-11-26T21:54:34.117537+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -8,7 +8,7 @@
         {
           "rank": 1,
           "username": "RebarFw",
-          "minesPlaced": 825671,
+          "minesPlaced": 1051346,
           "playerRank": 31,
           "kills": 194,
           "deaths": 142,
@@ -26,11 +26,11 @@
         {
           "rank": 3,
           "username": "LoveSick",
-          "minesPlaced": 134288,
+          "minesPlaced": 134831,
           "playerRank": 31,
           "kills": 132,
-          "deaths": 193,
-          "kdRatio": 0.6839378238341969
+          "deaths": 198,
+          "kdRatio": 0.6666666666666666
         },
         {
           "rank": 4,
@@ -381,7 +381,7 @@
         {
           "rank": 1,
           "username": "RebarFw",
-          "minesPlaced": 643294,
+          "minesPlaced": 868962,
           "playerRank": 31,
           "kills": 194,
           "deaths": 142,
@@ -408,11 +408,11 @@
         {
           "rank": 4,
           "username": "LoveSick",
-          "minesPlaced": 27713,
+          "minesPlaced": 28256,
           "playerRank": 31,
           "kills": 132,
-          "deaths": 193,
-          "kdRatio": 0.6839378238341969
+          "deaths": 198,
+          "kdRatio": 0.6666666666666666
         },
         {
           "rank": 5,
