@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T17:03:34.303258+00:00",
+  "updatedAt": "2026-11-27T18:03:34.681421+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -8,7 +8,7 @@
         {
           "rank": 1,
           "username": "RebarFw",
-          "minesPlaced": 1190362,
+          "minesPlaced": 1190462,
           "playerRank": 31,
           "kills": 203,
           "deaths": 156,
@@ -35,7 +35,7 @@
         {
           "rank": 4,
           "username": "Owner",
-          "minesPlaced": 125984,
+          "minesPlaced": 126743,
           "playerRank": 27,
           "kills": 83,
           "deaths": 122,
@@ -381,7 +381,7 @@
         {
           "rank": 1,
           "username": "RebarFw",
-          "minesPlaced": 1007978,
+          "minesPlaced": 1008078,
           "playerRank": 31,
           "kills": 203,
           "deaths": 156,
@@ -426,7 +426,7 @@
         {
           "rank": 6,
           "username": "Owner",
-          "minesPlaced": 15580,
+          "minesPlaced": 16339,
           "playerRank": 27,
           "kills": 83,
           "deaths": 122,
