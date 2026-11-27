@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T15:02:34.315652+00:00",
+  "updatedAt": "2026-11-27T17:03:34.303258+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -8,11 +8,11 @@
         {
           "rank": 1,
           "username": "RebarFw",
-          "minesPlaced": 1168466,
+          "minesPlaced": 1190362,
           "playerRank": 31,
-          "kills": 200,
-          "deaths": 151,
-          "kdRatio": 1.3245033112582782
+          "kills": 203,
+          "deaths": 156,
+          "kdRatio": 1.3012820512820513
         },
         {
           "rank": 2,
@@ -20,8 +20,8 @@
           "minesPlaced": 146915,
           "playerRank": 31,
           "kills": 136,
-          "deaths": 204,
-          "kdRatio": 0.6666666666666666
+          "deaths": 208,
+          "kdRatio": 0.6538461538461539
         },
         {
           "rank": 3,
@@ -53,11 +53,11 @@
         {
           "rank": 6,
           "username": "Lukas",
-          "minesPlaced": 100435,
+          "minesPlaced": 108212,
           "playerRank": 27,
-          "kills": 46,
-          "deaths": 82,
-          "kdRatio": 0.5609756097560976
+          "kills": 47,
+          "deaths": 84,
+          "kdRatio": 0.5595238095238095
         },
         {
           "rank": 7,
@@ -381,20 +381,20 @@
         {
           "rank": 1,
           "username": "RebarFw",
-          "minesPlaced": 986082,
+          "minesPlaced": 1007978,
           "playerRank": 31,
-          "kills": 200,
-          "deaths": 151,
-          "kdRatio": 1.3245033112582782
+          "kills": 203,
+          "deaths": 156,
+          "kdRatio": 1.3012820512820513
         },
         {
           "rank": 2,
           "username": "Lukas",
-          "minesPlaced": 73672,
+          "minesPlaced": 81449,
           "playerRank": 27,
-          "kills": 46,
-          "deaths": 82,
-          "kdRatio": 0.5609756097560976
+          "kills": 47,
+          "deaths": 84,
+          "kdRatio": 0.5595238095238095
         },
         {
           "rank": 3,
@@ -411,8 +411,8 @@
           "minesPlaced": 40340,
           "playerRank": 31,
           "kills": 136,
-          "deaths": 204,
-          "kdRatio": 0.6666666666666666
+          "deaths": 208,
+          "kdRatio": 0.6538461538461539
         },
         {
           "rank": 5,
