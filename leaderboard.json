@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T09:59:34.887029+00:00",
+  "updatedAt": "2026-11-27T12:00:34.811695+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -16,21 +16,21 @@
         },
         {
           "rank": 2,
+          "username": "LoveSick",
+          "minesPlaced": 141345,
+          "playerRank": 31,
+          "kills": 132,
+          "deaths": 200,
+          "kdRatio": 0.66
+        },
+        {
+          "rank": 3,
           "username": "Love",
           "minesPlaced": 135516,
           "playerRank": 27,
           "kills": 21,
           "deaths": 34,
           "kdRatio": 0.6176470588235294
-        },
-        {
-          "rank": 3,
-          "username": "LoveSick",
-          "minesPlaced": 135480,
-          "playerRank": 31,
-          "kills": 132,
-          "deaths": 198,
-          "kdRatio": 0.6666666666666666
         },
         {
           "rank": 4,
@@ -408,11 +408,11 @@
         {
           "rank": 4,
           "username": "LoveSick",
-          "minesPlaced": 28905,
+          "minesPlaced": 34770,
           "playerRank": 31,
           "kills": 132,
-          "deaths": 198,
-          "kdRatio": 0.6666666666666666
+          "deaths": 200,
+          "kdRatio": 0.66
         },
         {
           "rank": 5,
