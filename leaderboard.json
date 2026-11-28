@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-28T12:12:34.389079+00:00",
+  "updatedAt": "2026-11-28T13:12:34.905766+00:00",
   "refreshIntervalSeconds": 3600,
   "periods": {
     "alltime": {
@@ -35,11 +35,11 @@
         {
           "rank": 4,
           "username": "Love",
-          "minesPlaced": 144172,
+          "minesPlaced": 145442,
           "playerRank": 27,
-          "kills": 21,
+          "kills": 22,
           "deaths": 35,
-          "kdRatio": 0.6
+          "kdRatio": 0.6285714285714286
         },
         {
           "rank": 5,
@@ -322,6 +322,15 @@
         },
         {
           "rank": 36,
+          "username": "Ghost",
+          "minesPlaced": 93,
+          "playerRank": 27,
+          "kills": 1,
+          "deaths": 7,
+          "kdRatio": 0.14285714285714285
+        },
+        {
+          "rank": 37,
           "username": "Athena",
           "minesPlaced": 88,
           "playerRank": 27,
@@ -330,7 +339,7 @@
           "kdRatio": 0.0
         },
         {
-          "rank": 37,
+          "rank": 38,
           "username": "Claude",
           "minesPlaced": 84,
           "playerRank": 31,
@@ -339,7 +348,7 @@
           "kdRatio": 0.0
         },
         {
-          "rank": 38,
+          "rank": 39,
           "username": "test1",
           "minesPlaced": 5,
           "playerRank": 27,
@@ -348,7 +357,7 @@
           "kdRatio": 0.0
         },
         {
-          "rank": 39,
+          "rank": 40,
           "username": "Emin2010",
           "minesPlaced": 2,
           "playerRank": 27,
@@ -357,7 +366,7 @@
           "kdRatio": 0.0
         },
         {
-          "rank": 40,
+          "rank": 41,
           "username": "123",
           "minesPlaced": 1,
           "playerRank": 27,
@@ -366,7 +375,7 @@
           "kdRatio": 0.0
         },
         {
-          "rank": 41,
+          "rank": 42,
           "username": "Creative",
           "minesPlaced": 1,
           "playerRank": 27,
@@ -399,11 +408,11 @@
         {
           "rank": 3,
           "username": "Love",
-          "minesPlaced": 56119,
+          "minesPlaced": 57390,
           "playerRank": 27,
-          "kills": 21,
+          "kills": 22,
           "deaths": 35,
-          "kdRatio": 0.6
+          "kdRatio": 0.6285714285714286
         },
         {
           "rank": 4,
@@ -470,6 +479,15 @@
         },
         {
           "rank": 11,
+          "username": "Ghost",
+          "minesPlaced": 93,
+          "playerRank": 27,
+          "kills": 1,
+          "deaths": 7,
+          "kdRatio": 0.14285714285714285
+        },
+        {
+          "rank": 12,
           "username": "Emin2010",
           "minesPlaced": 2,
           "playerRank": 27,
